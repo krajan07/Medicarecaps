@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="medicarecaps">
+  <test thread-count="5" name="Tsuites">
+    <classes>
+ 	   <!--class name="TSuites.SiteMap_Common" /-->
+	  <class name="TSuites.Shopping">
+		<parameter name="username" value="tu@gmail.com"></parameter>
+		<parameter name="password" value="12345"></parameter>
+		<parameter name="ivusername" value="tu"></parameter>
+		<parameter name="epassword" value=""></parameter>
+		<parameter name="med1" value="Combiflame"></parameter>
+		<parameter name="med2" value="Combiflame"></parameter>
+	  </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

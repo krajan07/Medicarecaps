@@ -1,0 +1,235 @@
+[20-Nov-2021 03:25:11] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 03:25:19] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 03:25:21] :: [Base] :: [INFO] :: About page validation passed 
+[20-Nov-2021 03:25:24] :: [Base] :: [INFO] :: Home Page Passed 
+[20-Nov-2021 03:25:29] :: [Base] :: [INFO] :: Contact Us page test passed 
+[20-Nov-2021 03:25:33] :: [Base] :: [INFO] :: View Product Page validation Passed 
+[20-Nov-2021 03:25:42] :: [Base] :: [INFO] :: Antipyretics validation Passed 
+[20-Nov-2021 03:25:52] :: [Base] :: [INFO] :: Analgesics validation Passed 
+[20-Nov-2021 03:26:01] :: [Base] :: [INFO] :: Antibiotics Page validation Passed 
+[20-Nov-2021 03:26:05] :: [Base] :: [INFO] :: Sign Up - Personal page validation passed 
+[20-Nov-2021 03:26:09] :: [Base] :: [INFO] :: Login page validation passed 
+[20-Nov-2021 03:26:15] :: [Base] :: [WARN] :: Error Message on the Login Page ---> Please enter a valid email address! 
+[20-Nov-2021 03:26:15] :: [Base] :: [INFO] :: Invalid user message validation passed 
+[20-Nov-2021 03:26:20] :: [Base] :: [WARN] :: Error Message on the Login Page ---> Please enter your password! 
+[20-Nov-2021 03:26:20] :: [Base] :: [INFO] :: Login with proper username and password validation passed 
+[20-Nov-2021 03:26:25] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 03:26:25] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 03:44:30] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 03:44:38] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 03:44:40] :: [Base] :: [INFO] :: About page validation passed 
+[20-Nov-2021 03:44:43] :: [Base] :: [INFO] :: Home Page Passed 
+[20-Nov-2021 03:44:47] :: [Base] :: [INFO] :: Contact Us page test passed 
+[20-Nov-2021 03:44:52] :: [Base] :: [INFO] :: View Product Page validation Passed 
+[20-Nov-2021 03:45:01] :: [Base] :: [INFO] :: Antipyretics validation Passed 
+[20-Nov-2021 03:45:10] :: [Base] :: [INFO] :: Analgesics validation Passed 
+[20-Nov-2021 03:45:20] :: [Base] :: [INFO] :: Antibiotics Page validation Passed 
+[20-Nov-2021 03:45:24] :: [Base] :: [INFO] :: Sign Up - Personal page validation passed 
+[20-Nov-2021 03:45:28] :: [Base] :: [INFO] :: Login page validation passed 
+[20-Nov-2021 03:45:30] :: [Base] :: [INFO] :: Total products in the current page0 
+[20-Nov-2021 03:45:36] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 03:45:36] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 03:47:36] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 03:47:46] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 03:47:51] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 03:47:52] :: [Base] :: [INFO] :: Total products in the current page0 
+[20-Nov-2021 03:47:52] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:32:36] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:32:44] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:32:50] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:32:51] :: [Base] :: [INFO] :: [] 
+[20-Nov-2021 05:32:51] :: [Base] :: [INFO] :: Total products in the current page = 0 
+[20-Nov-2021 05:32:51] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:34:23] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:34:33] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:34:39] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:34:40] :: [Base] :: [INFO] :: [] 
+[20-Nov-2021 05:34:40] :: [Base] :: [INFO] :: Total products in the current page = 0 
+[20-Nov-2021 05:34:40] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:39:49] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:39:57] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:40:03] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:40:04] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:43:28] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:43:38] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:43:44] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:43:45] :: [Base] :: [INFO] :: Rows = 0 
+[20-Nov-2021 05:43:45] :: [Base] :: [INFO] :: Column Count0 
+[20-Nov-2021 05:43:45] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:45:22] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:45:32] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:45:38] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:45:39] :: [Base] :: [INFO] :: Rows = 0 
+[20-Nov-2021 05:45:39] :: [Base] :: [INFO] :: Column Count0 
+[20-Nov-2021 05:45:39] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:48:35] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:48:45] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:48:50] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:48:51] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:50:16] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:50:28] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:50:34] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:50:34] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:53:10] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:53:18] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:53:24] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:53:24] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 05:57:05] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 05:57:16] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 05:57:22] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 05:57:22] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:38:42] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:38:51] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:38:57] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:39:01] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:39:01] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:40:05] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:40:15] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:40:20] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:40:25] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:40:25] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:46:22] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:46:34] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:49:08] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:49:18] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:49:24] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:49:28] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:49:29] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:51:35] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:51:45] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:51:50] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:51:55] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:51:56] :: [Base] :: [INFO] :: Paracetamol Cipla ₹ 19 47   
+[20-Nov-2021 06:51:57] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 06:51:58] :: [Base] :: [INFO] :: Diclofenac Intas ₹ 30 19   
+[20-Nov-2021 06:51:59] :: [Base] :: [INFO] :: Aceclofenac Cipla ₹ 42 80   
+[20-Nov-2021 06:52:00] :: [Base] :: [INFO] :: Amoxicillin Sun Pharma ₹ 54 65   
+[20-Nov-2021 06:52:00] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:53:47] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:54:00] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:54:07] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:54:12] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:54:13] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:54:34] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:54:42] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:54:47] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:54:52] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:54:53] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:56:38] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:56:46] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:56:52] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:56:56] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:56:57] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 06:58:34] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 06:58:44] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 06:58:50] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 06:58:54] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 06:58:55] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:13:13] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:13:22] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:13:28] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:13:32] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 07:13:33] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:14:09] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:14:15] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:14:21] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:14:25] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 07:14:26] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:14:58] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:15:05] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:15:11] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:15:15] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 07:15:15] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:15:15] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:15:37] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:15:46] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:15:51] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:15:56] :: [Base] :: [INFO] :: tbody 
+[20-Nov-2021 07:15:56] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:15:56] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:16:30] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:16:40] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:16:46] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
+[20-Nov-2021 07:16:50] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:17:18] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:17:27] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:17:33] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Paracetamol Cipla ₹ 19 47   
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Diclofenac Intas ₹ 30 19   
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Aceclofenac Cipla ₹ 42 80   
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Amoxicillin Sun Pharma ₹ 54 65   
+[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:18:23] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:18:33] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:18:38] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:18:43] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:18:43] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 07:18:43] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:22:25] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:22:35] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:22:41] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: 5 
+[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:25:47] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:26:00] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:26:05] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: 2 
+[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:46:44] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:46:52] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:46:57] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:47:02] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:47:02] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 07:47:03] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 07:47:37] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:47:45] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:47:50] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:47:55] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:47:55] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 07:53:12] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:53:19] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:53:26] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:53:31] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:53:31] :: [Base] :: [INFO] :: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[20-Nov-2021 07:54:15] :: [Base] :: [INFO] :: Setup for testing initated. 
+[20-Nov-2021 07:54:23] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
+[20-Nov-2021 07:54:28] :: [Base] :: [INFO] :: Login Successful validation passed 
+[20-Nov-2021 07:54:33] :: [Base] :: [INFO] :: Total Number of Rows = 5 
+[20-Nov-2021 07:54:33] :: [Base] :: [INFO] :: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[20-Nov-2021 07:54:33] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
+[20-Nov-2021 08:21:50]::[INFO]:: Setup for testing initated. 
+[20-Nov-2021 08:21:58]::[INFO]:: Medicare WebSite Lanuched 
+[20-Nov-2021 08:22:03]::[INFO]:: Login Successful validation passed 
+[20-Nov-2021 08:22:08]::[INFO]:: Total number of products in the page = 5 
+[20-Nov-2021 08:22:08]::[INFO]:: Products listed in the current page are :  
+[20-Nov-2021 08:22:08]::[INFO]:: Paracetamol Cipla ₹ 19 47   
+[20-Nov-2021 08:22:08]::[INFO]:: Combiflame Cipla ₹ 22 48   
+[20-Nov-2021 08:22:08]::[INFO]:: Diclofenac Intas ₹ 30 19   
+[20-Nov-2021 08:22:08]::[INFO]:: Aceclofenac Cipla ₹ 42 80   
+[20-Nov-2021 08:22:08]::[INFO]:: Amoxicillin Sun Pharma ₹ 54 65   
+[20-Nov-2021 08:22:08]::[INFO]:: All Products list page validation Passed 
+[20-Nov-2021 08:22:08]::[INFO]:: In Tear Down... All tests executions completed 
+[20-Nov-2021 08:33:01]::[INFO]:: Setup for testing initated. 
+[20-Nov-2021 08:33:09]::[INFO]:: Medicare WebSite Lanuched 
+[20-Nov-2021 08:33:14]::[INFO]:: Login Successful validation passed 
+[20-Nov-2021 08:33:19]::[INFO]:: Total number of products in the page = 5 
+[20-Nov-2021 08:33:19]::[INFO]:: Products listed in the current page are :  
+[20-Nov-2021 08:33:19]::[INFO]:: Paracetamol 
+[20-Nov-2021 08:33:19]::[INFO]:: Combiflame 
+[20-Nov-2021 08:33:19]::[INFO]:: Diclofenac 
+[20-Nov-2021 08:33:19]::[INFO]:: Aceclofenac 
+[20-Nov-2021 08:33:19]::[INFO]:: Amoxicillin 
+[20-Nov-2021 08:33:19]::[INFO]:: All Products list page validation Passed 
+[20-Nov-2021 08:33:19]::[INFO]:: In Tear Down... All tests executions completed 

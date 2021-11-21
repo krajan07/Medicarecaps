@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="medicarecaps" duration-ms="18029" started-at="2021-11-20T20:33:01 IST" finished-at="2021-11-20T20:33:19 IST">
+    <groups>
+    </groups>
+    <test name="Tsuites" duration-ms="18029" started-at="2021-11-20T20:33:01 IST" finished-at="2021-11-20T20:33:19 IST">
+      <class name="TSuites.Shopping">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TSuites.Shopping@25bbf683]" name="setup" is-config="true" duration-ms="7633" started-at="2021-11-20T20:33:01 IST" finished-at="2021-11-20T20:33:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidUserLoginCheck(java.lang.String,java.lang.String)[pri:2, instance:TSuites.Shopping@25bbf683]" name="ValidUserLoginCheck" duration-ms="5524" started-at="2021-11-20T20:33:09 IST" finished-at="2021-11-20T20:33:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tu@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidUserLoginCheck -->
+        <test-method status="PASS" signature="ViewProductList(java.lang.String)[pri:2, instance:TSuites.Shopping@25bbf683]" name="ViewProductList" duration-ms="4608" started-at="2021-11-20T20:33:14 IST" finished-at="2021-11-20T20:33:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Combiflame]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewProductList -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TSuites.Shopping@25bbf683]" name="TearDown" is-config="true" duration-ms="95" started-at="2021-11-20T20:33:19 IST" finished-at="2021-11-20T20:33:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TSuites.Shopping -->
+    </test> <!-- Tsuites -->
+  </suite> <!-- medicarecaps -->
+</testng-results>
