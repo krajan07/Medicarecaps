@@ -1,12 +1,17 @@
 <html>
 <head>
-<title>TestNG:  PageChecks</title>
+<title>TestNG: PageChecks</title>
 <link href="../testng.css" rel="stylesheet" type="text/css" />
 <link href="../my-testng.css" rel="stylesheet" type="text/css" />
 
 <style type="text/css">
-.log { display: none;} 
-.stack-trace { display: none;} 
+.log {
+	display: none;
+}
+
+.stack-trace {
+	display: none;
+}
 </style>
 <script type="text/javascript">
 <!--
@@ -53,38 +58,61 @@ function toggleAllBoxes() {
 
 </head>
 <body>
-<h2 align='center'>PageChecks</h2><table border='1' align="center">
-<tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
-</tr><tr>
-<td>Started on:</td><td>Fri Nov 19 07:44:09 IST 2021</td>
-</tr>
-<tr><td>Total time:</td><td>0 seconds (125 ms)</td>
-</tr><tr>
-<td>Included groups:</td><td></td>
-</tr><tr>
-<td>Excluded groups:</td><td></td>
-</tr>
-</table><p/>
-<small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='TSuites.SiteMap.checkHomePage()'><b>checkHomePage</b><br>Test class: TSuites.SiteMap</td>
-<td><div><pre>java.lang.IllegalArgumentException: Input must be set
+	<h2 align='center'>PageChecks</h2>
+	<table border='1' align="center">
+		<tr>
+			<td>Tests passed/Failed/Skipped:</td>
+			<td>0/1/0</td>
+		</tr>
+		<tr>
+			<td>Started on:</td>
+			<td>Fri Nov 19 07:44:09 IST 2021</td>
+		</tr>
+		<tr>
+			<td>Total time:</td>
+			<td>0 seconds (125 ms)</td>
+		</tr>
+		<tr>
+			<td>Included groups:</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Excluded groups:</td>
+			<td></td>
+		</tr>
+	</table>
+	<p />
+	<small><i>(Hover the method name to see the test class
+			name)</i></small>
+	<p />
+	<table width='100%' border='1' class='invocation-failed'>
+		<tr>
+			<td colspan='4' align='center'><b>FAILED TESTS</b></td>
+		</tr>
+		<tr>
+			<td><b>Test method</b></td>
+			<td width="30%"><b>Exception</b></td>
+			<td width="10%"><b>Time (seconds)</b></td>
+			<td><b>Instance</b></td>
+		</tr>
+		<tr>
+			<td title='TSuites.SiteMap.checkHomePage()'><b>checkHomePage</b><br>Test
+				class: TSuites.SiteMap</td>
+			<td><div>
+					<pre>java.lang.IllegalArgumentException: Input must be set
 	at org.openqa.selenium.internal.Require.nonNull(Require.java:56)
 	at org.openqa.selenium.support.ui.FluentWait.&lt;init&gt;(FluentWait.java:97)
 	at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:128)
 	at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:61)
 	at TSuites.SiteMap.checkHomePage(SiteMap.java:20)
 	at java.util.ArrayList.forEach(ArrayList.java:1259)
-... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace632587706", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace632587706'><pre>java.lang.IllegalArgumentException: Input must be set
+... Removed 27 stack frames</pre>
+				</div>
+				<a href='#'
+				onClick='toggleBox("stack-trace632587706", this, "Click to show all stack frames", "Click to hide stack frames")'>Click
+					to show all stack frames</a>
+				<div class='stack-trace' id='stack-trace632587706'>
+					<pre>java.lang.IllegalArgumentException: Input must be set
 	at org.openqa.selenium.internal.Require.nonNull(Require.java:56)
 	at org.openqa.selenium.support.ui.FluentWait.&lt;init&gt;(FluentWait.java:97)
 	at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:128)
@@ -118,9 +146,12 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div></td>
-<td>0</td>
-<td>TSuites.SiteMap@cb51256</td></tr>
-</table><p>
+</pre>
+				</div></td>
+			<td>0</td>
+			<td>TSuites.SiteMap@cb51256</td>
+		</tr>
+	</table>
+	<p>
 </body>
 </html>

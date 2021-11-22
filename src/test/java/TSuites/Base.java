@@ -33,5 +33,4 @@ public class Base {
 		log.info("In Tear Down... All tests executions completed");
 		driver.quit();
 	}
-
 }

@@ -16,7 +16,9 @@ public class AddCart extends HomePage {
 	WebDriver driver;
 	
 	@FindBy(xpath = "//table[@id='productListTable']/tbody")
-	WebElement Tbody;
+	WebElement ProductTbody;
+	@FindBy(xpath = "//table[@id='cart']/tbody")
+	WebElement CartTbody;
 
 	public AddCart() {
 		driver = Base.driver;
@@ -24,30 +26,31 @@ public class AddCart extends HomePage {
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void ProductList(String med1) throws InterruptedException {
+	public void AddMedicine(String med1,String med2) throws InterruptedException {
 		ViewProducts.click();
 		Thread.sleep(3000);
-		List<WebElement> row = Tbody.findElements(By.tagName("tr"));
-		log.info("Total Number of Rows = " + row.size());
-		int ch = 0;
+		List<WebElement> row = ProductTbody.findElements(By.tagName("tr"));
+		int ch = 1 ,i=0;
+		do {
 		for(WebElement mlist : row) {
-				ch++;
-				if(mlist.getText().contains(med1)) {
-					log.info(mlist.getText());
-					driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[6]/a[2]")).click();
-				}
-				break;
+			if(driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[2]")).getText().contains(med1)) {
+				log.info("Product Added : " + driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[2]")).getText());
+				Thread.sleep(3000);
+				driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[6]/a[2]")).click();
+				driver.navigate().back();
+			}else if(driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[2]")).getText().contains(med2))
+			 {
+				log.info("Product Added : " + driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[2]")).getText());
+				driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[6]/a[2]")).click();
+				Thread.sleep(3000);
+			}else {
+				log.info("Product not matched");
+			}
+			ch++;
+			i++;
 		}
-		String curUrl = driver.getCurrentUrl();
-		log.info("We are in page -->  " +curUrl);
-		
-		
-		
-		
-		
-		
-		}
-	
-		
-
+		}while(i> row.size());
+		Assert.assertEquals("driver.getCurrentUrl();", "http://localhost:8080/medicare/cart/show");
+		log.info("Add product to cart validation passed");
+	}
 }

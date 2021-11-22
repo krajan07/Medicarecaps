@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-medicarecaps">
-              <span class="suite-name border-passed">medicarecaps</span>
+              <span class="suite-name border-failed">medicarecaps</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -93,7 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">2 methods, 1 failed,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-medicarecaps" class="hide-methods failed suite-medicarecaps"> (hide)</a> <!-- hide-methods failed suite-medicarecaps -->
+                      <a href="#" panel-name="suite-medicarecaps" class="show-methods failed suite-medicarecaps"> (show)</a> <!-- show-methods failed suite-medicarecaps -->
+                    </span>
+                    <div class="method-list-content failed suite-medicarecaps">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-medicarecaps" title="TSuites.Shopping" hash-for-method="MedAddCart(Combiflame, Amoxicillin)">MedAddCart(Combiflame, Amoxicillin)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-medicarecaps -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -105,11 +119,6 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-medicarecaps" title="TSuites.Shopping" hash-for-method="ValidUserLoginCheck(tu@gmail.com, 12345)">ValidUserLoginCheck(tu@gmail.com, 12345)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-medicarecaps" title="TSuites.Shopping" hash-for-method="ViewProductList(Combiflame)">ViewProductList(Combiflame)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-medicarecaps -->
@@ -124,6 +133,28 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-medicarecaps" class="panel medicarecaps">
+          <div class="suite-medicarecaps-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">TSuites.Shopping</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="MedAddCart(Combiflame, Amoxicillin)">
+                  </a> <!-- MedAddCart(Combiflame, Amoxicillin) -->
+                  <span class="method-name">MedAddCart</span>
+                  <span class="parameters">(Combiflame, Amoxicillin)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [http://localhost:8080/medicare/cart/show] but found [driver.getCurrentUrl();]
+	at pageobjects.AddCart.AddMedicine(AddCart.java:53)
+	at TSuites.Shopping.MedAddCart(Shopping.java:48)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-medicarecaps-class-failed -->
           <div class="suite-medicarecaps-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -136,14 +167,6 @@
                   </a> <!-- ValidUserLoginCheck(tu@gmail.com, 12345) -->
                   <span class="method-name">ValidUserLoginCheck</span>
                   <span class="parameters">(tu@gmail.com, 12345)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="ViewProductList(Combiflame)">
-                  </a> <!-- ViewProductList(Combiflame) -->
-                  <span class="method-name">ViewProductList</span>
-                  <span class="parameters">(Combiflame)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -162,7 +185,7 @@
     &lt;classes&gt;
       &lt;class name=&quot;TSuites.Shopping&quot;&gt;
         &lt;parameter name=&quot;password&quot; value=&quot;12345&quot;/&gt;
-        &lt;parameter name=&quot;med2&quot; value=&quot;Combiflame&quot;/&gt;
+        &lt;parameter name=&quot;med2&quot; value=&quot;Amoxicillin&quot;/&gt;
         &lt;parameter name=&quot;med1&quot; value=&quot;Combiflame&quot;/&gt;
         &lt;parameter name=&quot;ivusername&quot; value=&quot;tu&quot;/&gt;
         &lt;parameter name=&quot;epassword&quot; value=&quot;&quot;/&gt;
@@ -209,18 +232,18 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'ValidUserLoginCheck')
+data.setCell(0, 1, 'MedAddCart')
 data.setCell(0, 2, 'TSuites.Shopping')
-data.setCell(0, 3, 5524);
+data.setCell(0, 3, 12427);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'ViewProductList')
+data.setCell(1, 1, 'ValidUserLoginCheck')
 data.setCell(1, 2, 'TSuites.Shopping')
-data.setCell(1, 3, 4608);
+data.setCell(1, 3, 5654);
 window.suiteTableData['medicarecaps']= { tableData: data, tableDiv: 'times-div-medicarecaps'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 10 seconds</span>
+              <span class="suite-total-time">Total running time: 18 seconds</span>
               <div id="times-div-medicarecaps">
               </div> <!-- times-div-medicarecaps -->
             </div> <!-- times-div -->
@@ -235,7 +258,7 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-medicarecaps" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">2 ignored methods</span>
+            <span class="header-content">3 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="ignored-class-div">
@@ -244,6 +267,8 @@ return data;
                 <span class="ignored-method-name">InValidUserLoginCheck</span>
                 <br/>
                 <span class="ignored-method-name">InValidPasswordLoginCheck</span>
+                <br/>
+                <span class="ignored-method-name">ViewProductList</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -262,15 +287,17 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">ValidUserLoginCheck(tu@gmail.com, 12345)</span>
-                <span class="method-start">7755 ms</span>
+                <span class="method-start">9736 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">ViewProductList(Combiflame)</span>
-                <span class="method-start">13301 ms</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">MedAddCart(Combiflame, Amoxicillin)</span>
+                <span class="method-start">15416 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">TearDown</span>
-                <span class="method-start">17930 ms</span>
+                <span class="method-start">27889 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

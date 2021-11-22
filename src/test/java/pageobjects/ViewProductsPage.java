@@ -60,7 +60,7 @@ public class ViewProductsPage extends HomePage {
 	}
 	
 	
-	public void ProductList(String med1) throws InterruptedException {
+	public void ProductList() throws InterruptedException {
 		ViewProducts.click();
 		Thread.sleep(3000);
 		List<WebElement> row = Tbody.findElements(By.tagName("tr"));

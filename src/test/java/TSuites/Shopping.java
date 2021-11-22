@@ -3,6 +3,7 @@ package TSuites;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+import pageobjects.AddCart;
 import pageobjects.LogInPage;
 import pageobjects.ViewProductsPage;
 
@@ -32,12 +33,19 @@ public class Shopping extends Base {
 		LP.ValidUserLog(URL, username, password);
 	}
 	
-	@Test(priority = 2, enabled = true)
-	@Parameters("med1")
-	public void ViewProductList(String med1) throws InterruptedException {
+	@Test(priority = 2, enabled = false)
+	public void ViewProductList() throws InterruptedException {
 		ViewProductsPage VPP = new ViewProductsPage();
 		Thread.sleep(1000);
-		VPP.ProductList(med1);
+		VPP.ProductList();
+	}
+	
+	@Test(priority = 3, enabled = true)
+	@Parameters({"med1", "med2"})
+	public void MedAddCart(String med1, String med2) throws InterruptedException {
+		AddCart AC = new AddCart();
+		Thread.sleep(1000);
+		AC.AddMedicine(med1, med2);
 	}
 	
 	

@@ -4,14 +4,16 @@
   <test thread-count="5" name="Tsuites(failed)">
     <classes>
       <class name="TSuites.Shopping">
-        <parameter name="epassword" value=""/>
         <parameter name="password" value="12345"/>
+        <parameter name="med2" value="Amoxicillin"/>
         <parameter name="med1" value="Combiflame"/>
         <parameter name="ivusername" value="tu"/>
+        <parameter name="epassword" value=""/>
         <parameter name="username" value="tu@gmail.com"/>
         <methods>
+          <include name="TearDown"/>
+          <include name="MedAddCart" invocation-numbers="0"/>
           <include name="setup"/>
-          <include name="ViewProductList" invocation-numbers="0"/>
         </methods>
       </class> <!-- TSuites.Shopping -->
     </classes>

@@ -1,235 +1,643 @@
-[20-Nov-2021 03:25:11] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 03:25:19] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 03:25:21] :: [Base] :: [INFO] :: About page validation passed 
-[20-Nov-2021 03:25:24] :: [Base] :: [INFO] :: Home Page Passed 
-[20-Nov-2021 03:25:29] :: [Base] :: [INFO] :: Contact Us page test passed 
-[20-Nov-2021 03:25:33] :: [Base] :: [INFO] :: View Product Page validation Passed 
-[20-Nov-2021 03:25:42] :: [Base] :: [INFO] :: Antipyretics validation Passed 
-[20-Nov-2021 03:25:52] :: [Base] :: [INFO] :: Analgesics validation Passed 
-[20-Nov-2021 03:26:01] :: [Base] :: [INFO] :: Antibiotics Page validation Passed 
-[20-Nov-2021 03:26:05] :: [Base] :: [INFO] :: Sign Up - Personal page validation passed 
-[20-Nov-2021 03:26:09] :: [Base] :: [INFO] :: Login page validation passed 
-[20-Nov-2021 03:26:15] :: [Base] :: [WARN] :: Error Message on the Login Page ---> Please enter a valid email address! 
-[20-Nov-2021 03:26:15] :: [Base] :: [INFO] :: Invalid user message validation passed 
-[20-Nov-2021 03:26:20] :: [Base] :: [WARN] :: Error Message on the Login Page ---> Please enter your password! 
-[20-Nov-2021 03:26:20] :: [Base] :: [INFO] :: Login with proper username and password validation passed 
-[20-Nov-2021 03:26:25] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 03:26:25] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 03:44:30] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 03:44:38] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 03:44:40] :: [Base] :: [INFO] :: About page validation passed 
-[20-Nov-2021 03:44:43] :: [Base] :: [INFO] :: Home Page Passed 
-[20-Nov-2021 03:44:47] :: [Base] :: [INFO] :: Contact Us page test passed 
-[20-Nov-2021 03:44:52] :: [Base] :: [INFO] :: View Product Page validation Passed 
-[20-Nov-2021 03:45:01] :: [Base] :: [INFO] :: Antipyretics validation Passed 
-[20-Nov-2021 03:45:10] :: [Base] :: [INFO] :: Analgesics validation Passed 
-[20-Nov-2021 03:45:20] :: [Base] :: [INFO] :: Antibiotics Page validation Passed 
-[20-Nov-2021 03:45:24] :: [Base] :: [INFO] :: Sign Up - Personal page validation passed 
-[20-Nov-2021 03:45:28] :: [Base] :: [INFO] :: Login page validation passed 
-[20-Nov-2021 03:45:30] :: [Base] :: [INFO] :: Total products in the current page0 
-[20-Nov-2021 03:45:36] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 03:45:36] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 03:47:36] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 03:47:46] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 03:47:51] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 03:47:52] :: [Base] :: [INFO] :: Total products in the current page0 
-[20-Nov-2021 03:47:52] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:32:36] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:32:44] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:32:50] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:32:51] :: [Base] :: [INFO] :: [] 
-[20-Nov-2021 05:32:51] :: [Base] :: [INFO] :: Total products in the current page = 0 
-[20-Nov-2021 05:32:51] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:34:23] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:34:33] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:34:39] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:34:40] :: [Base] :: [INFO] :: [] 
-[20-Nov-2021 05:34:40] :: [Base] :: [INFO] :: Total products in the current page = 0 
-[20-Nov-2021 05:34:40] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:39:49] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:39:57] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:40:03] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:40:04] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:43:28] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:43:38] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:43:44] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:43:45] :: [Base] :: [INFO] :: Rows = 0 
-[20-Nov-2021 05:43:45] :: [Base] :: [INFO] :: Column Count0 
-[20-Nov-2021 05:43:45] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:45:22] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:45:32] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:45:38] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:45:39] :: [Base] :: [INFO] :: Rows = 0 
-[20-Nov-2021 05:45:39] :: [Base] :: [INFO] :: Column Count0 
-[20-Nov-2021 05:45:39] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:48:35] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:48:45] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:48:50] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:48:51] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:50:16] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:50:28] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:50:34] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:50:34] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:53:10] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:53:18] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:53:24] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:53:24] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 05:57:05] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 05:57:16] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 05:57:22] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 05:57:22] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:38:42] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:38:51] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:38:57] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:39:01] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:39:01] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:40:05] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:40:15] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:40:20] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:40:25] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:40:25] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:46:22] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:46:34] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:49:08] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:49:18] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:49:24] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:49:28] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:49:29] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:51:35] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:51:45] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:51:50] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:51:55] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:51:56] :: [Base] :: [INFO] :: Paracetamol Cipla ₹ 19 47   
-[20-Nov-2021 06:51:57] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 06:51:58] :: [Base] :: [INFO] :: Diclofenac Intas ₹ 30 19   
-[20-Nov-2021 06:51:59] :: [Base] :: [INFO] :: Aceclofenac Cipla ₹ 42 80   
-[20-Nov-2021 06:52:00] :: [Base] :: [INFO] :: Amoxicillin Sun Pharma ₹ 54 65   
-[20-Nov-2021 06:52:00] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:53:47] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:54:00] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:54:07] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:54:12] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:54:13] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:54:34] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:54:42] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:54:47] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:54:52] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:54:53] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:56:38] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:56:46] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:56:52] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:56:56] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:56:57] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 06:58:34] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 06:58:44] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 06:58:50] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 06:58:54] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 06:58:55] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:13:13] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:13:22] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:13:28] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:13:32] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 07:13:33] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:14:09] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:14:15] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:14:21] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:14:25] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 07:14:26] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:14:58] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:15:05] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:15:11] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:15:15] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 07:15:15] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:15:15] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:15:37] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:15:46] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:15:51] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:15:56] :: [Base] :: [INFO] :: tbody 
-[20-Nov-2021 07:15:56] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:15:56] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:16:30] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:16:40] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:16:46] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] ::  
-[20-Nov-2021 07:16:50] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:17:18] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:17:27] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:17:33] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Paracetamol Cipla ₹ 19 47   
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Diclofenac Intas ₹ 30 19   
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Aceclofenac Cipla ₹ 42 80   
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: Amoxicillin Sun Pharma ₹ 54 65   
-[20-Nov-2021 07:17:37] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:18:23] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:18:33] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:18:38] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:18:43] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:18:43] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 07:18:43] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:22:25] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:22:35] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:22:41] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: 5 
-[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 07:22:45] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:25:47] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:26:00] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:26:05] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: 2 
-[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 07:26:10] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:46:44] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:46:52] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:46:57] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:47:02] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:47:02] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 07:47:03] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 07:47:37] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:47:45] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:47:50] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:47:55] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:47:55] :: [Base] :: [INFO] :: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 07:53:12] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:53:19] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:53:26] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:53:31] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:53:31] :: [Base] :: [INFO] :: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[20-Nov-2021 07:54:15] :: [Base] :: [INFO] :: Setup for testing initated. 
-[20-Nov-2021 07:54:23] :: [Base] :: [INFO] :: Medicare WebSite Lanuched 
-[20-Nov-2021 07:54:28] :: [Base] :: [INFO] :: Login Successful validation passed 
-[20-Nov-2021 07:54:33] :: [Base] :: [INFO] :: Total Number of Rows = 5 
-[20-Nov-2021 07:54:33] :: [Base] :: [INFO] :: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[20-Nov-2021 07:54:33] :: [Base] :: [INFO] :: In Tear Down... All tests executions completed 
-[20-Nov-2021 08:21:50]::[INFO]:: Setup for testing initated. 
-[20-Nov-2021 08:21:58]::[INFO]:: Medicare WebSite Lanuched 
-[20-Nov-2021 08:22:03]::[INFO]:: Login Successful validation passed 
-[20-Nov-2021 08:22:08]::[INFO]:: Total number of products in the page = 5 
-[20-Nov-2021 08:22:08]::[INFO]:: Products listed in the current page are :  
-[20-Nov-2021 08:22:08]::[INFO]:: Paracetamol Cipla ₹ 19 47   
-[20-Nov-2021 08:22:08]::[INFO]:: Combiflame Cipla ₹ 22 48   
-[20-Nov-2021 08:22:08]::[INFO]:: Diclofenac Intas ₹ 30 19   
-[20-Nov-2021 08:22:08]::[INFO]:: Aceclofenac Cipla ₹ 42 80   
-[20-Nov-2021 08:22:08]::[INFO]:: Amoxicillin Sun Pharma ₹ 54 65   
-[20-Nov-2021 08:22:08]::[INFO]:: All Products list page validation Passed 
-[20-Nov-2021 08:22:08]::[INFO]:: In Tear Down... All tests executions completed 
-[20-Nov-2021 08:33:01]::[INFO]:: Setup for testing initated. 
-[20-Nov-2021 08:33:09]::[INFO]:: Medicare WebSite Lanuched 
-[20-Nov-2021 08:33:14]::[INFO]:: Login Successful validation passed 
-[20-Nov-2021 08:33:19]::[INFO]:: Total number of products in the page = 5 
-[20-Nov-2021 08:33:19]::[INFO]:: Products listed in the current page are :  
-[20-Nov-2021 08:33:19]::[INFO]:: Paracetamol 
-[20-Nov-2021 08:33:19]::[INFO]:: Combiflame 
-[20-Nov-2021 08:33:19]::[INFO]:: Diclofenac 
-[20-Nov-2021 08:33:19]::[INFO]:: Aceclofenac 
-[20-Nov-2021 08:33:19]::[INFO]:: Amoxicillin 
-[20-Nov-2021 08:33:19]::[INFO]:: All Products list page validation Passed 
-[20-Nov-2021 08:33:19]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 06:47:53]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 06:54:37]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 06:54:48]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 06:54:49]::[INFO]:: About page validation passed 
+[21-Nov-2021 06:54:52]::[INFO]:: Home Page Passed 
+[21-Nov-2021 06:54:57]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 06:55:01]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 06:55:10]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 06:55:20]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 06:55:29]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 06:55:34]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 06:55:38]::[INFO]:: Login page validation passed 
+[21-Nov-2021 06:55:45]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 06:55:49]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 06:55:49]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 06:55:49]::[INFO]:: Paracetamol 
+[21-Nov-2021 06:55:49]::[INFO]:: Combiflame 
+[21-Nov-2021 06:55:49]::[INFO]:: Diclofenac 
+[21-Nov-2021 06:55:49]::[INFO]:: Aceclofenac 
+[21-Nov-2021 06:55:49]::[INFO]:: Amoxicillin 
+[21-Nov-2021 06:55:49]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 06:55:49]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 07:02:07]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 07:02:17]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 07:02:18]::[INFO]:: About page validation passed 
+[21-Nov-2021 07:02:21]::[INFO]:: Home Page Passed 
+[21-Nov-2021 07:02:26]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 07:02:30]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 07:02:39]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 07:02:49]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 07:02:58]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 07:03:03]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 07:03:06]::[INFO]:: Login page validation passed 
+[21-Nov-2021 07:03:12]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 07:03:17]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 07:03:17]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 07:03:17]::[INFO]:: Paracetamol 
+[21-Nov-2021 07:03:17]::[INFO]:: Combiflame 
+[21-Nov-2021 07:03:17]::[INFO]:: Diclofenac 
+[21-Nov-2021 07:03:17]::[INFO]:: Aceclofenac 
+[21-Nov-2021 07:03:17]::[INFO]:: Amoxicillin 
+[21-Nov-2021 07:03:17]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 07:03:17]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 01:12:56]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 01:13:07]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 01:13:09]::[INFO]:: About page validation passed 
+[21-Nov-2021 01:13:12]::[INFO]:: Home Page Passed 
+[21-Nov-2021 01:13:16]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 01:13:20]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 01:13:30]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 01:13:39]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 01:13:49]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 01:13:53]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 01:13:57]::[INFO]:: Login page validation passed 
+[21-Nov-2021 01:14:03]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 01:14:07]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 01:14:07]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 01:14:08]::[INFO]:: Paracetamol 
+[21-Nov-2021 01:14:08]::[INFO]:: Combiflame 
+[21-Nov-2021 01:14:08]::[INFO]:: Diclofenac 
+[21-Nov-2021 01:14:08]::[INFO]:: Aceclofenac 
+[21-Nov-2021 01:14:08]::[INFO]:: Amoxicillin 
+[21-Nov-2021 01:14:08]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 01:38:49]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 01:38:59]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 01:39:01]::[INFO]:: About page validation passed 
+[21-Nov-2021 01:39:04]::[INFO]:: Home Page Passed 
+[21-Nov-2021 01:39:08]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 01:39:13]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 01:39:22]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 01:39:31]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 01:39:40]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 01:39:45]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 01:39:48]::[INFO]:: Login page validation passed 
+[21-Nov-2021 01:39:56]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 01:40:00]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 01:40:00]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 01:40:00]::[INFO]:: Paracetamol 
+[21-Nov-2021 01:40:00]::[INFO]:: Combiflame 
+[21-Nov-2021 01:40:00]::[INFO]:: Diclofenac 
+[21-Nov-2021 01:40:00]::[INFO]:: Aceclofenac 
+[21-Nov-2021 01:40:00]::[INFO]:: Amoxicillin 
+[21-Nov-2021 01:40:00]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 01:45:09]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 01:45:17]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 01:45:19]::[INFO]:: About page validation passed 
+[21-Nov-2021 01:45:22]::[INFO]:: Home Page Passed 
+[21-Nov-2021 01:45:26]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 01:45:31]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 01:45:40]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 01:45:51]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 01:46:00]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 01:46:04]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 01:46:08]::[INFO]:: Login page validation passed 
+[21-Nov-2021 01:46:14]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 01:46:19]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 01:46:19]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 01:47:43]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 01:47:53]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 01:47:55]::[INFO]:: About page validation passed 
+[21-Nov-2021 01:47:58]::[INFO]:: Home Page Passed 
+[21-Nov-2021 01:48:03]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 01:48:07]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 01:48:16]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 01:48:26]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 01:48:35]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 01:48:39]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 01:48:43]::[INFO]:: Login page validation passed 
+[21-Nov-2021 01:48:50]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 01:48:54]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 01:48:54]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 01:51:01]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 01:51:13]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 01:51:15]::[INFO]:: About page validation passed 
+[21-Nov-2021 01:51:18]::[INFO]:: Home Page Passed 
+[21-Nov-2021 01:51:22]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 01:51:27]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 01:51:36]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 01:51:45]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 01:51:55]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 01:51:59]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 01:52:02]::[INFO]:: Login page validation passed 
+[21-Nov-2021 01:52:09]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 01:52:13]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 01:52:13]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 01:52:13]::[INFO]:: Paracetamol 
+[21-Nov-2021 01:52:13]::[INFO]:: Combiflame 
+[21-Nov-2021 01:52:13]::[INFO]:: Diclofenac 
+[21-Nov-2021 01:52:13]::[INFO]:: Aceclofenac 
+[21-Nov-2021 01:52:13]::[INFO]:: Amoxicillin 
+[21-Nov-2021 01:52:13]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 01:52:18]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 01:52:18]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 01:56:42]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 01:57:02]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 01:57:03]::[INFO]:: About page validation passed 
+[21-Nov-2021 01:57:07]::[INFO]:: Home Page Passed 
+[21-Nov-2021 01:57:11]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 01:57:15]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 01:57:25]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 01:57:34]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 01:57:43]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 01:57:48]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 01:57:51]::[INFO]:: Login page validation passed 
+[21-Nov-2021 01:57:57]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 01:58:02]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 01:58:02]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 01:58:02]::[INFO]:: Paracetamol 
+[21-Nov-2021 01:58:02]::[INFO]:: Combiflame 
+[21-Nov-2021 01:58:02]::[INFO]:: Diclofenac 
+[21-Nov-2021 01:58:02]::[INFO]:: Aceclofenac 
+[21-Nov-2021 01:58:02]::[INFO]:: Amoxicillin 
+[21-Nov-2021 01:58:02]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 01:58:06]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 01:58:06]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:00:40]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:00:50]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:00:52]::[INFO]:: About page validation passed 
+[21-Nov-2021 02:00:55]::[INFO]:: Home Page Passed 
+[21-Nov-2021 02:00:59]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 02:01:03]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 02:01:13]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 02:01:22]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 02:01:31]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 02:01:36]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 02:01:39]::[INFO]:: Login page validation passed 
+[21-Nov-2021 02:01:46]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:01:50]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:01:50]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:01:50]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:01:50]::[INFO]:: Combiflame 
+[21-Nov-2021 02:01:50]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:01:50]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:01:50]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:01:50]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:01:54]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 02:01:54]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:05:44]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:05:55]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:05:57]::[INFO]:: About page validation passed 
+[21-Nov-2021 02:06:00]::[INFO]:: Home Page Passed 
+[21-Nov-2021 02:06:04]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 02:06:09]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 02:06:18]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 02:06:27]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 02:06:37]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 02:06:41]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 02:06:44]::[INFO]:: Login page validation passed 
+[21-Nov-2021 02:06:51]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:06:55]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:06:55]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:06:55]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:06:55]::[INFO]:: Combiflame 
+[21-Nov-2021 02:06:55]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:06:55]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:06:55]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:06:55]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:06:56]::[INFO]:: Combiflame&Amoxicillin 
+[21-Nov-2021 02:06:59]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 02:07:00]::[INFO]:: Product not found 
+[21-Nov-2021 02:07:00]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:13:36]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:13:44]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:13:46]::[INFO]:: About page validation passed 
+[21-Nov-2021 02:13:49]::[INFO]:: Home Page Passed 
+[21-Nov-2021 02:13:53]::[INFO]:: Contact Us page test passed 
+[21-Nov-2021 02:13:58]::[INFO]:: View Product Page validation Passed 
+[21-Nov-2021 02:14:07]::[INFO]:: Antipyretics validation Passed 
+[21-Nov-2021 02:14:17]::[INFO]:: Analgesics validation Passed 
+[21-Nov-2021 02:14:26]::[INFO]:: Antibiotics Page validation Passed 
+[21-Nov-2021 02:14:30]::[INFO]:: Sign Up - Personal page validation passed 
+[21-Nov-2021 02:14:34]::[INFO]:: Login page validation passed 
+[21-Nov-2021 02:14:40]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:14:44]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:14:44]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:14:44]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:14:44]::[INFO]:: Combiflame 
+[21-Nov-2021 02:14:44]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:14:44]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:14:44]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:14:44]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:14:45]::[INFO]:: Combiflame&Amoxicillin 
+[21-Nov-2021 02:14:49]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 02:14:49]::[INFO]:: Product not found 
+[21-Nov-2021 02:14:49]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:16:19]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:16:27]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:16:33]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:16:38]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:16:38]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:16:38]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:16:38]::[INFO]:: Combiflame 
+[21-Nov-2021 02:16:38]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:16:38]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:16:38]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:16:38]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:16:39]::[INFO]:: Combiflame&Amoxicillin 
+[21-Nov-2021 02:16:42]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 02:16:42]::[INFO]:: 1Paracetamol 
+[21-Nov-2021 02:16:42]::[INFO]:: 2Combiflame 
+[21-Nov-2021 02:16:42]::[INFO]:: 3Diclofenac 
+[21-Nov-2021 02:16:42]::[INFO]:: 4Aceclofenac 
+[21-Nov-2021 02:16:42]::[INFO]:: 5Amoxicillin 
+[21-Nov-2021 02:16:42]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:19:21]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:19:31]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:19:37]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:19:42]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:19:42]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:19:42]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:19:42]::[INFO]:: Combiflame 
+[21-Nov-2021 02:19:42]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:19:42]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:19:42]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:19:42]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:19:43]::[INFO]:: Combiflame&Amoxicillin 
+[21-Nov-2021 02:19:46]::[INFO]:: Total Number of Rows = 5 
+[21-Nov-2021 02:19:46]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 02:19:47]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 02:26:54]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:27:02]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:27:07]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:27:12]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:27:12]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:27:12]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:27:12]::[INFO]:: Combiflame 
+[21-Nov-2021 02:27:12]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:27:12]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:27:12]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:27:12]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:27:16]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 02:27:16]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=updated 
+[21-Nov-2021 02:27:20]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:30:11]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:30:20]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:30:25]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:30:30]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:30:30]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:30:30]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:30:30]::[INFO]:: Combiflame 
+[21-Nov-2021 02:30:30]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:30:30]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:30:30]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:30:30]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:30:34]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 02:30:34]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=updated 
+[21-Nov-2021 02:30:38]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:32:51]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:33:00]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:33:06]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:33:10]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:33:10]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:33:10]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:33:10]::[INFO]:: Combiflame 
+[21-Nov-2021 02:33:10]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:33:10]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:33:10]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:33:10]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:33:15]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 02:33:15]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 02:33:18]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:33:18]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 02:33:19]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 02:33:22]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:33:23]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 02:37:10]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:37:20]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:37:27]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:37:31]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:37:31]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:37:31]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:37:31]::[INFO]:: Combiflame 
+[21-Nov-2021 02:37:32]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:37:32]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:37:32]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:37:32]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:37:36]::[INFO]:: Product not found 
+[21-Nov-2021 02:37:36]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:43:10]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:43:18]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:43:24]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:43:28]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:43:28]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:43:28]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:43:28]::[INFO]:: Combiflame 
+[21-Nov-2021 02:43:28]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:43:29]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:43:29]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:43:29]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:43:33]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:43:33]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:43:33]::[INFO]:: Product not found 
+[21-Nov-2021 02:43:33]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:47:32]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:47:45]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:47:50]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:47:55]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:47:55]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:47:55]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:47:55]::[INFO]:: Combiflame 
+[21-Nov-2021 02:47:55]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:47:55]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:47:55]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:47:55]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:47:59]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:47:59]::[INFO]:: Product not found 
+[21-Nov-2021 02:47:59]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:47:59]::[INFO]:: Combiflame 
+[21-Nov-2021 02:47:59]::[INFO]:: Product not found 
+[21-Nov-2021 02:47:59]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:49:43]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:49:53]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:49:59]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:50:03]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:50:03]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:50:03]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:50:03]::[INFO]:: Combiflame 
+[21-Nov-2021 02:50:03]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:50:03]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:50:03]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:50:04]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:50:08]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:50:08]::[INFO]:: Product not found 
+[21-Nov-2021 02:50:08]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:50:08]::[INFO]:: Combiflame 
+[21-Nov-2021 02:50:08]::[INFO]:: Product not found 
+[21-Nov-2021 02:50:08]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:51:35]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:51:45]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:51:50]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:51:55]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:51:55]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:51:55]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:51:55]::[INFO]:: Combiflame 
+[21-Nov-2021 02:51:55]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:51:55]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:51:55]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:51:55]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:52:00]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:52:00]::[INFO]:: Product not found 
+[21-Nov-2021 02:52:00]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:52:00]::[INFO]:: Combiflame 
+[21-Nov-2021 02:52:00]::[INFO]:: Product not found 
+[21-Nov-2021 02:52:00]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:53:27]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:53:34]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:53:40]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:53:44]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:53:44]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:53:44]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:53:44]::[INFO]:: Combiflame 
+[21-Nov-2021 02:53:44]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:53:44]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:53:44]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:53:44]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:53:49]::[INFO]:: itr1 
+[21-Nov-2021 02:53:49]::[INFO]:: medCombiflame 
+[21-Nov-2021 02:53:49]::[INFO]:: mtempParacetamol 
+[21-Nov-2021 02:53:49]::[INFO]:: Product not found 
+[21-Nov-2021 02:53:49]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:53:49]::[INFO]:: itr2 
+[21-Nov-2021 02:53:49]::[INFO]:: medAmoxicillin 
+[21-Nov-2021 02:53:49]::[INFO]:: mtempCombiflame 
+[21-Nov-2021 02:53:49]::[INFO]:: Product not found 
+[21-Nov-2021 02:53:49]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 02:58:28]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 02:58:35]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 02:58:41]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 02:58:45]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 02:58:45]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 02:58:45]::[INFO]:: Paracetamol 
+[21-Nov-2021 02:58:45]::[INFO]:: Combiflame 
+[21-Nov-2021 02:58:45]::[INFO]:: Diclofenac 
+[21-Nov-2021 02:58:46]::[INFO]:: Aceclofenac 
+[21-Nov-2021 02:58:46]::[INFO]:: Amoxicillin 
+[21-Nov-2021 02:58:46]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 02:58:50]::[INFO]:: Ch1 Name Paracetamol 
+[21-Nov-2021 02:58:50]::[INFO]:: Ch2 Name Combiflame 
+[21-Nov-2021 02:58:50]::[INFO]:: Ch3 Name Diclofenac 
+[21-Nov-2021 02:58:50]::[INFO]:: Ch4 Name Aceclofenac 
+[21-Nov-2021 02:58:50]::[INFO]:: Ch5 Name Amoxicillin 
+[21-Nov-2021 02:58:50]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 03:04:12]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:04:21]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:04:26]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:04:31]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 03:04:31]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 03:04:31]::[INFO]:: Paracetamol 
+[21-Nov-2021 03:04:31]::[INFO]:: Combiflame 
+[21-Nov-2021 03:04:31]::[INFO]:: Diclofenac 
+[21-Nov-2021 03:04:31]::[INFO]:: Aceclofenac 
+[21-Nov-2021 03:04:31]::[INFO]:: Amoxicillin 
+[21-Nov-2021 03:04:31]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 03:04:35]::[INFO]:: Ch1 Name Paracetamol 
+[21-Nov-2021 03:04:35]::[INFO]:: Product not found 
+[21-Nov-2021 03:04:35]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 03:07:43]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:07:53]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:07:59]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:08:03]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 03:08:03]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 03:08:03]::[INFO]:: Paracetamol 
+[21-Nov-2021 03:08:03]::[INFO]:: Combiflame 
+[21-Nov-2021 03:08:03]::[INFO]:: Diclofenac 
+[21-Nov-2021 03:08:03]::[INFO]:: Aceclofenac 
+[21-Nov-2021 03:08:03]::[INFO]:: Amoxicillin 
+[21-Nov-2021 03:08:03]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 03:08:08]::[INFO]:: 5 
+[21-Nov-2021 03:11:18]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:11:26]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:11:32]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:11:36]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 03:11:36]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 03:11:36]::[INFO]:: Paracetamol 
+[21-Nov-2021 03:11:36]::[INFO]:: Combiflame 
+[21-Nov-2021 03:11:36]::[INFO]:: Diclofenac 
+[21-Nov-2021 03:11:36]::[INFO]:: Aceclofenac 
+[21-Nov-2021 03:11:36]::[INFO]:: Amoxicillin 
+[21-Nov-2021 03:11:36]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 03:11:40]::[INFO]:: 5 
+[21-Nov-2021 03:11:40]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
+[21-Nov-2021 03:15:48]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:15:56]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:16:02]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:16:06]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 03:16:06]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 03:16:06]::[INFO]:: Paracetamol 
+[21-Nov-2021 03:16:06]::[INFO]:: Combiflame 
+[21-Nov-2021 03:16:06]::[INFO]:: Diclofenac 
+[21-Nov-2021 03:16:06]::[INFO]:: Aceclofenac 
+[21-Nov-2021 03:16:06]::[INFO]:: Amoxicillin 
+[21-Nov-2021 03:16:06]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 03:16:11]::[INFO]:: 5 
+[21-Nov-2021 03:19:31]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:19:41]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:19:47]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:19:51]::[INFO]:: Total number of products in the page = 5 
+[21-Nov-2021 03:19:51]::[INFO]:: Products listed in the current page are :  
+[21-Nov-2021 03:19:51]::[INFO]:: Paracetamol 
+[21-Nov-2021 03:19:51]::[INFO]:: Combiflame 
+[21-Nov-2021 03:19:51]::[INFO]:: Diclofenac 
+[21-Nov-2021 03:19:51]::[INFO]:: Aceclofenac 
+[21-Nov-2021 03:19:51]::[INFO]:: Amoxicillin 
+[21-Nov-2021 03:19:51]::[INFO]:: All Products list page validation Passed 
+[21-Nov-2021 03:19:56]::[INFO]:: 5 
+[21-Nov-2021 03:35:52]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:36:01]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:36:06]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:36:11]::[INFO]:: 5 
+[21-Nov-2021 03:37:18]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:37:28]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:37:34]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:40:09]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:40:21]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:40:27]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:40:31]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 03:41:26]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:41:37]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:41:42]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:41:47]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 03:43:32]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:43:41]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:43:47]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:43:51]::[INFO]:: Product not found 
+[21-Nov-2021 03:43:52]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:43:52]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 03:43:55]::[INFO]:: Product not found 
+[21-Nov-2021 03:43:55]::[INFO]:: Product not found 
+[21-Nov-2021 03:43:55]::[INFO]:: Product not found 
+[21-Nov-2021 03:43:55]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 03:45:19]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:45:28]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:45:34]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:45:38]::[INFO]:: Product not found 
+[21-Nov-2021 03:45:38]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:45:38]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 03:45:38]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 03:45:42]::[INFO]:: Product not found 
+[21-Nov-2021 03:45:42]::[INFO]:: Product not found 
+[21-Nov-2021 03:45:42]::[INFO]:: Product not found 
+[21-Nov-2021 03:50:59]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:51:08]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:51:14]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:51:18]::[INFO]:: Product not found 
+[21-Nov-2021 03:51:18]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:51:18]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 03:51:19]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=updated 
+[21-Nov-2021 03:51:22]::[INFO]:: Product not found 
+[21-Nov-2021 03:51:22]::[INFO]:: Product not found 
+[21-Nov-2021 03:51:22]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:51:22]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 03:51:23]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 03:54:38]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:54:47]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:54:52]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:54:57]::[INFO]:: Product not matched 
+[21-Nov-2021 03:54:57]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:54:57]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 03:54:57]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 03:55:00]::[INFO]:: Product not matched 
+[21-Nov-2021 03:55:01]::[INFO]:: Product not matched 
+[21-Nov-2021 03:55:01]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:55:01]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 03:55:02]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 03:58:07]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 03:58:17]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 03:58:23]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 03:58:27]::[INFO]:: Product not matched 
+[21-Nov-2021 03:58:27]::[INFO]:: Inside add medicine to cart 
+[21-Nov-2021 03:58:27]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 03:58:28]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 03:58:31]::[INFO]:: Product not matched 
+[21-Nov-2021 03:58:31]::[INFO]:: Product not matched 
+[21-Nov-2021 03:58:31]::[INFO]:: Product not matched 
+[21-Nov-2021 03:59:56]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:00:04]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:00:10]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:00:14]::[INFO]:: Product not matched 
+[21-Nov-2021 04:00:14]::[INFO]:: Inside add medicine to cart & looking for Combiflame 
+[21-Nov-2021 04:00:15]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:00:15]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 04:00:18]::[INFO]:: Product not matched 
+[21-Nov-2021 04:00:18]::[INFO]:: Product not matched 
+[21-Nov-2021 04:00:18]::[INFO]:: Product not matched 
+[21-Nov-2021 04:01:18]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:01:26]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:01:31]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:01:36]::[INFO]:: Product not matched 
+[21-Nov-2021 04:01:36]::[INFO]:: Inside add medicine to cart & looking for Combiflame 
+[21-Nov-2021 04:01:36]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:01:36]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
+[21-Nov-2021 04:01:39]::[INFO]:: Product not matched 
+[21-Nov-2021 04:01:39]::[INFO]:: Product not matched 
+[21-Nov-2021 04:01:39]::[INFO]:: Product not matched 
+[21-Nov-2021 04:04:00]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:04:08]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:04:14]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:06:00]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:06:07]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:06:13]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:07:43]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:07:53]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:07:59]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:10:04]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:10:11]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:10:17]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:10:22]::[INFO]:: 2 
+[21-Nov-2021 04:13:40]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:13:49]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:13:55]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:15:57]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:16:05]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:16:11]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:16:16]::[INFO]:: Product not matched 
+[21-Nov-2021 04:16:16]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:16:19]::[INFO]:: Product not matched 
+[21-Nov-2021 04:16:19]::[INFO]:: Product not matched 
+[21-Nov-2021 04:16:20]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 04:32:47]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:32:56]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:33:02]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:33:07]::[INFO]:: Product not matched 
+[21-Nov-2021 04:33:07]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:33:10]::[INFO]:: Product not matched 
+[21-Nov-2021 04:33:10]::[INFO]:: Product not matched 
+[21-Nov-2021 04:33:10]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 04:34:45]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:34:54]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:35:00]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:35:04]::[INFO]:: Product not matched 
+[21-Nov-2021 04:35:04]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:35:08]::[INFO]:: Product not matched 
+[21-Nov-2021 04:35:08]::[INFO]:: Product not matched 
+[21-Nov-2021 04:35:08]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 04:35:12]::[INFO]:: Combiflame 
+[21-Nov-2021 04:35:12]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 04:49:50]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:50:00]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:50:06]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:50:11]::[INFO]:: Product not matched 
+[21-Nov-2021 04:50:11]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:50:14]::[INFO]:: Product not matched 
+[21-Nov-2021 04:50:14]::[INFO]:: Product not matched 
+[21-Nov-2021 04:50:14]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 04:50:18]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 04:57:53]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 04:58:03]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 04:58:08]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 04:58:13]::[INFO]:: Product not matched 
+[21-Nov-2021 04:58:13]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 04:58:16]::[INFO]:: Product not matched 
+[21-Nov-2021 04:58:16]::[INFO]:: Product not matched 
+[21-Nov-2021 04:58:16]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 04:58:21]::[INFO]:: In Tear Down... All tests executions completed 
+[21-Nov-2021 05:08:27]::[INFO]:: Setup for testing initated. 
+[21-Nov-2021 05:08:37]::[INFO]:: Medicare WebSite Lanuched 
+[21-Nov-2021 05:08:43]::[INFO]:: Login Successful validation passed 
+[21-Nov-2021 05:08:47]::[INFO]:: Product not matched 
+[21-Nov-2021 05:08:47]::[INFO]:: Product Added : Combiflame 
+[21-Nov-2021 05:08:51]::[INFO]:: Product not matched 
+[21-Nov-2021 05:08:51]::[INFO]:: Product not matched 
+[21-Nov-2021 05:08:51]::[INFO]:: Product Added : Amoxicillin 
+[21-Nov-2021 05:08:55]::[INFO]:: In Tear Down... All tests executions completed 
