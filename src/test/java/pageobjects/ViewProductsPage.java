@@ -28,8 +28,12 @@ public class ViewProductsPage extends HomePage {
 	public void isViewAllProductPage() throws InterruptedException {
 		ViewProducts.click();
 		Thread.sleep(3000);
+		try {
 		Assert.assertEquals("Categories", Categories.getText());
 		log.info("View Product Page validation Passed");
+		}catch(Exception e) {
+			log.error(e);
+		}
 	}
 
 	public void isAntipyretics() throws InterruptedException {
@@ -37,8 +41,12 @@ public class ViewProductsPage extends HomePage {
 		Thread.sleep(3000);
 		Antipyretics.click();
 		Thread.sleep(3000);
+		try {
 		Assert.assertEquals("Antipyretics", CurrentSelection.getText());
 		log.info("Antipyretics validation Passed");
+		}catch(Exception e) {
+			log.error(e);
+		}
 	}
 
 	public void isAnalgesics() throws InterruptedException {
@@ -46,8 +54,12 @@ public class ViewProductsPage extends HomePage {
 		Thread.sleep(3000);
 		Analgesics.click();
 		Thread.sleep(3000);
+		try {
 		Assert.assertEquals("Analgesics", CurrentSelection.getText());
 		log.info("Analgesics validation Passed");
+		}catch(Exception e) {
+			log.error(e);
+		}
 	}
 
 	public void isAntibiotics() throws InterruptedException {
@@ -55,8 +67,12 @@ public class ViewProductsPage extends HomePage {
 		Thread.sleep(3000);
 		Antibiotics.click();
 		Thread.sleep(3000);
+		try {
 		Assert.assertEquals("Antibiotics", CurrentSelection.getText());
 		log.info("Antibiotics Page validation Passed");
+		}catch(Exception e) {
+			log.error(e);
+		}
 	}
 	
 	
@@ -71,8 +87,12 @@ public class ViewProductsPage extends HomePage {
 			ch++;
 			log.info(driver.findElement(By.xpath("//*[@id='productListTable']/tbody/tr["+ch+"]/td[2]")).getText());
 		}
+		try {
 		Assert.assertEquals("All Products", AllProducts.getText());
 		log.info("All Products list page validation Passed");
+		}catch(Exception e) {
+			log.error(e);
+		}
 		}
 	
 		

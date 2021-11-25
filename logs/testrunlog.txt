@@ -1,643 +1,638 @@
-[21-Nov-2021 06:47:53]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 06:54:37]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 06:54:48]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 06:54:49]::[INFO]:: About page validation passed 
-[21-Nov-2021 06:54:52]::[INFO]:: Home Page Passed 
-[21-Nov-2021 06:54:57]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 06:55:01]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 06:55:10]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 06:55:20]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 06:55:29]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 06:55:34]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 06:55:38]::[INFO]:: Login page validation passed 
-[21-Nov-2021 06:55:45]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 06:55:49]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 06:55:49]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 06:55:49]::[INFO]:: Paracetamol 
-[21-Nov-2021 06:55:49]::[INFO]:: Combiflame 
-[21-Nov-2021 06:55:49]::[INFO]:: Diclofenac 
-[21-Nov-2021 06:55:49]::[INFO]:: Aceclofenac 
-[21-Nov-2021 06:55:49]::[INFO]:: Amoxicillin 
-[21-Nov-2021 06:55:49]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 06:55:49]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 07:02:07]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 07:02:17]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 07:02:18]::[INFO]:: About page validation passed 
-[21-Nov-2021 07:02:21]::[INFO]:: Home Page Passed 
-[21-Nov-2021 07:02:26]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 07:02:30]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 07:02:39]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 07:02:49]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 07:02:58]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 07:03:03]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 07:03:06]::[INFO]:: Login page validation passed 
-[21-Nov-2021 07:03:12]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 07:03:17]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 07:03:17]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 07:03:17]::[INFO]:: Paracetamol 
-[21-Nov-2021 07:03:17]::[INFO]:: Combiflame 
-[21-Nov-2021 07:03:17]::[INFO]:: Diclofenac 
-[21-Nov-2021 07:03:17]::[INFO]:: Aceclofenac 
-[21-Nov-2021 07:03:17]::[INFO]:: Amoxicillin 
-[21-Nov-2021 07:03:17]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 07:03:17]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 01:12:56]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 01:13:07]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 01:13:09]::[INFO]:: About page validation passed 
-[21-Nov-2021 01:13:12]::[INFO]:: Home Page Passed 
-[21-Nov-2021 01:13:16]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 01:13:20]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 01:13:30]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 01:13:39]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 01:13:49]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 01:13:53]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 01:13:57]::[INFO]:: Login page validation passed 
-[21-Nov-2021 01:14:03]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 01:14:07]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 01:14:07]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 01:14:08]::[INFO]:: Paracetamol 
-[21-Nov-2021 01:14:08]::[INFO]:: Combiflame 
-[21-Nov-2021 01:14:08]::[INFO]:: Diclofenac 
-[21-Nov-2021 01:14:08]::[INFO]:: Aceclofenac 
-[21-Nov-2021 01:14:08]::[INFO]:: Amoxicillin 
-[21-Nov-2021 01:14:08]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 01:38:49]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 01:38:59]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 01:39:01]::[INFO]:: About page validation passed 
-[21-Nov-2021 01:39:04]::[INFO]:: Home Page Passed 
-[21-Nov-2021 01:39:08]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 01:39:13]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 01:39:22]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 01:39:31]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 01:39:40]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 01:39:45]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 01:39:48]::[INFO]:: Login page validation passed 
-[21-Nov-2021 01:39:56]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 01:40:00]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 01:40:00]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 01:40:00]::[INFO]:: Paracetamol 
-[21-Nov-2021 01:40:00]::[INFO]:: Combiflame 
-[21-Nov-2021 01:40:00]::[INFO]:: Diclofenac 
-[21-Nov-2021 01:40:00]::[INFO]:: Aceclofenac 
-[21-Nov-2021 01:40:00]::[INFO]:: Amoxicillin 
-[21-Nov-2021 01:40:00]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 01:45:09]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 01:45:17]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 01:45:19]::[INFO]:: About page validation passed 
-[21-Nov-2021 01:45:22]::[INFO]:: Home Page Passed 
-[21-Nov-2021 01:45:26]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 01:45:31]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 01:45:40]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 01:45:51]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 01:46:00]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 01:46:04]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 01:46:08]::[INFO]:: Login page validation passed 
-[21-Nov-2021 01:46:14]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 01:46:19]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 01:46:19]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 01:47:43]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 01:47:53]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 01:47:55]::[INFO]:: About page validation passed 
-[21-Nov-2021 01:47:58]::[INFO]:: Home Page Passed 
-[21-Nov-2021 01:48:03]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 01:48:07]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 01:48:16]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 01:48:26]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 01:48:35]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 01:48:39]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 01:48:43]::[INFO]:: Login page validation passed 
-[21-Nov-2021 01:48:50]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 01:48:54]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 01:48:54]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 01:51:01]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 01:51:13]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 01:51:15]::[INFO]:: About page validation passed 
-[21-Nov-2021 01:51:18]::[INFO]:: Home Page Passed 
-[21-Nov-2021 01:51:22]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 01:51:27]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 01:51:36]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 01:51:45]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 01:51:55]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 01:51:59]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 01:52:02]::[INFO]:: Login page validation passed 
-[21-Nov-2021 01:52:09]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 01:52:13]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 01:52:13]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 01:52:13]::[INFO]:: Paracetamol 
-[21-Nov-2021 01:52:13]::[INFO]:: Combiflame 
-[21-Nov-2021 01:52:13]::[INFO]:: Diclofenac 
-[21-Nov-2021 01:52:13]::[INFO]:: Aceclofenac 
-[21-Nov-2021 01:52:13]::[INFO]:: Amoxicillin 
-[21-Nov-2021 01:52:13]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 01:52:18]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 01:52:18]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 01:56:42]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 01:57:02]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 01:57:03]::[INFO]:: About page validation passed 
-[21-Nov-2021 01:57:07]::[INFO]:: Home Page Passed 
-[21-Nov-2021 01:57:11]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 01:57:15]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 01:57:25]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 01:57:34]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 01:57:43]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 01:57:48]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 01:57:51]::[INFO]:: Login page validation passed 
-[21-Nov-2021 01:57:57]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 01:58:02]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 01:58:02]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 01:58:02]::[INFO]:: Paracetamol 
-[21-Nov-2021 01:58:02]::[INFO]:: Combiflame 
-[21-Nov-2021 01:58:02]::[INFO]:: Diclofenac 
-[21-Nov-2021 01:58:02]::[INFO]:: Aceclofenac 
-[21-Nov-2021 01:58:02]::[INFO]:: Amoxicillin 
-[21-Nov-2021 01:58:02]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 01:58:06]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 01:58:06]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:00:40]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:00:50]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:00:52]::[INFO]:: About page validation passed 
-[21-Nov-2021 02:00:55]::[INFO]:: Home Page Passed 
-[21-Nov-2021 02:00:59]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 02:01:03]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 02:01:13]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 02:01:22]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 02:01:31]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 02:01:36]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 02:01:39]::[INFO]:: Login page validation passed 
-[21-Nov-2021 02:01:46]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:01:50]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:01:50]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:01:50]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:01:50]::[INFO]:: Combiflame 
-[21-Nov-2021 02:01:50]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:01:50]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:01:50]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:01:50]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:01:54]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 02:01:54]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:05:44]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:05:55]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:05:57]::[INFO]:: About page validation passed 
-[21-Nov-2021 02:06:00]::[INFO]:: Home Page Passed 
-[21-Nov-2021 02:06:04]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 02:06:09]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 02:06:18]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 02:06:27]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 02:06:37]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 02:06:41]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 02:06:44]::[INFO]:: Login page validation passed 
-[21-Nov-2021 02:06:51]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:06:55]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:06:55]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:06:55]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:06:55]::[INFO]:: Combiflame 
-[21-Nov-2021 02:06:55]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:06:55]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:06:55]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:06:55]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:06:56]::[INFO]:: Combiflame&Amoxicillin 
-[21-Nov-2021 02:06:59]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 02:07:00]::[INFO]:: Product not found 
-[21-Nov-2021 02:07:00]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:13:36]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:13:44]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:13:46]::[INFO]:: About page validation passed 
-[21-Nov-2021 02:13:49]::[INFO]:: Home Page Passed 
-[21-Nov-2021 02:13:53]::[INFO]:: Contact Us page test passed 
-[21-Nov-2021 02:13:58]::[INFO]:: View Product Page validation Passed 
-[21-Nov-2021 02:14:07]::[INFO]:: Antipyretics validation Passed 
-[21-Nov-2021 02:14:17]::[INFO]:: Analgesics validation Passed 
-[21-Nov-2021 02:14:26]::[INFO]:: Antibiotics Page validation Passed 
-[21-Nov-2021 02:14:30]::[INFO]:: Sign Up - Personal page validation passed 
-[21-Nov-2021 02:14:34]::[INFO]:: Login page validation passed 
-[21-Nov-2021 02:14:40]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:14:44]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:14:44]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:14:44]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:14:44]::[INFO]:: Combiflame 
-[21-Nov-2021 02:14:44]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:14:44]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:14:44]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:14:44]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:14:45]::[INFO]:: Combiflame&Amoxicillin 
-[21-Nov-2021 02:14:49]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 02:14:49]::[INFO]:: Product not found 
-[21-Nov-2021 02:14:49]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:16:19]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:16:27]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:16:33]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:16:38]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:16:38]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:16:38]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:16:38]::[INFO]:: Combiflame 
-[21-Nov-2021 02:16:38]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:16:38]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:16:38]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:16:38]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:16:39]::[INFO]:: Combiflame&Amoxicillin 
-[21-Nov-2021 02:16:42]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 02:16:42]::[INFO]:: 1Paracetamol 
-[21-Nov-2021 02:16:42]::[INFO]:: 2Combiflame 
-[21-Nov-2021 02:16:42]::[INFO]:: 3Diclofenac 
-[21-Nov-2021 02:16:42]::[INFO]:: 4Aceclofenac 
-[21-Nov-2021 02:16:42]::[INFO]:: 5Amoxicillin 
-[21-Nov-2021 02:16:42]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:19:21]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:19:31]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:19:37]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:19:42]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:19:42]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:19:42]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:19:42]::[INFO]:: Combiflame 
-[21-Nov-2021 02:19:42]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:19:42]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:19:42]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:19:42]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:19:43]::[INFO]:: Combiflame&Amoxicillin 
-[21-Nov-2021 02:19:46]::[INFO]:: Total Number of Rows = 5 
-[21-Nov-2021 02:19:46]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 02:19:47]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 02:26:54]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:27:02]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:27:07]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:27:12]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:27:12]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:27:12]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:27:12]::[INFO]:: Combiflame 
-[21-Nov-2021 02:27:12]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:27:12]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:27:12]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:27:12]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:27:16]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 02:27:16]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=updated 
-[21-Nov-2021 02:27:20]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:30:11]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:30:20]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:30:25]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:30:30]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:30:30]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:30:30]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:30:30]::[INFO]:: Combiflame 
-[21-Nov-2021 02:30:30]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:30:30]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:30:30]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:30:30]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:30:34]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 02:30:34]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=updated 
-[21-Nov-2021 02:30:38]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:32:51]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:33:00]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:33:06]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:33:10]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:33:10]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:33:10]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:33:10]::[INFO]:: Combiflame 
-[21-Nov-2021 02:33:10]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:33:10]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:33:10]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:33:10]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:33:15]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 02:33:15]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 02:33:18]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:33:18]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 02:33:19]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 02:33:22]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:33:23]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 02:37:10]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:37:20]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:37:27]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:37:31]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:37:31]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:37:31]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:37:31]::[INFO]:: Combiflame 
-[21-Nov-2021 02:37:32]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:37:32]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:37:32]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:37:32]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:37:36]::[INFO]:: Product not found 
-[21-Nov-2021 02:37:36]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:43:10]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:43:18]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:43:24]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:43:28]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:43:28]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:43:28]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:43:28]::[INFO]:: Combiflame 
-[21-Nov-2021 02:43:28]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:43:29]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:43:29]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:43:29]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:43:33]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:43:33]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:43:33]::[INFO]:: Product not found 
-[21-Nov-2021 02:43:33]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:47:32]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:47:45]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:47:50]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:47:55]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:47:55]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:47:55]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:47:55]::[INFO]:: Combiflame 
-[21-Nov-2021 02:47:55]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:47:55]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:47:55]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:47:55]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:47:59]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:47:59]::[INFO]:: Product not found 
-[21-Nov-2021 02:47:59]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:47:59]::[INFO]:: Combiflame 
-[21-Nov-2021 02:47:59]::[INFO]:: Product not found 
-[21-Nov-2021 02:47:59]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:49:43]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:49:53]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:49:59]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:50:03]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:50:03]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:50:03]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:50:03]::[INFO]:: Combiflame 
-[21-Nov-2021 02:50:03]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:50:03]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:50:03]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:50:04]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:50:08]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:50:08]::[INFO]:: Product not found 
-[21-Nov-2021 02:50:08]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:50:08]::[INFO]:: Combiflame 
-[21-Nov-2021 02:50:08]::[INFO]:: Product not found 
-[21-Nov-2021 02:50:08]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:51:35]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:51:45]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:51:50]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:51:55]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:51:55]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:51:55]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:51:55]::[INFO]:: Combiflame 
-[21-Nov-2021 02:51:55]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:51:55]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:51:55]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:51:55]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:52:00]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:52:00]::[INFO]:: Product not found 
-[21-Nov-2021 02:52:00]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:52:00]::[INFO]:: Combiflame 
-[21-Nov-2021 02:52:00]::[INFO]:: Product not found 
-[21-Nov-2021 02:52:00]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:53:27]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:53:34]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:53:40]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:53:44]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:53:44]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:53:44]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:53:44]::[INFO]:: Combiflame 
-[21-Nov-2021 02:53:44]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:53:44]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:53:44]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:53:44]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:53:49]::[INFO]:: itr1 
-[21-Nov-2021 02:53:49]::[INFO]:: medCombiflame 
-[21-Nov-2021 02:53:49]::[INFO]:: mtempParacetamol 
-[21-Nov-2021 02:53:49]::[INFO]:: Product not found 
-[21-Nov-2021 02:53:49]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:53:49]::[INFO]:: itr2 
-[21-Nov-2021 02:53:49]::[INFO]:: medAmoxicillin 
-[21-Nov-2021 02:53:49]::[INFO]:: mtempCombiflame 
-[21-Nov-2021 02:53:49]::[INFO]:: Product not found 
-[21-Nov-2021 02:53:49]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 02:58:28]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 02:58:35]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 02:58:41]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 02:58:45]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 02:58:45]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 02:58:45]::[INFO]:: Paracetamol 
-[21-Nov-2021 02:58:45]::[INFO]:: Combiflame 
-[21-Nov-2021 02:58:45]::[INFO]:: Diclofenac 
-[21-Nov-2021 02:58:46]::[INFO]:: Aceclofenac 
-[21-Nov-2021 02:58:46]::[INFO]:: Amoxicillin 
-[21-Nov-2021 02:58:46]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 02:58:50]::[INFO]:: Ch1 Name Paracetamol 
-[21-Nov-2021 02:58:50]::[INFO]:: Ch2 Name Combiflame 
-[21-Nov-2021 02:58:50]::[INFO]:: Ch3 Name Diclofenac 
-[21-Nov-2021 02:58:50]::[INFO]:: Ch4 Name Aceclofenac 
-[21-Nov-2021 02:58:50]::[INFO]:: Ch5 Name Amoxicillin 
-[21-Nov-2021 02:58:50]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 03:04:12]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:04:21]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:04:26]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:04:31]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 03:04:31]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 03:04:31]::[INFO]:: Paracetamol 
-[21-Nov-2021 03:04:31]::[INFO]:: Combiflame 
-[21-Nov-2021 03:04:31]::[INFO]:: Diclofenac 
-[21-Nov-2021 03:04:31]::[INFO]:: Aceclofenac 
-[21-Nov-2021 03:04:31]::[INFO]:: Amoxicillin 
-[21-Nov-2021 03:04:31]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 03:04:35]::[INFO]:: Ch1 Name Paracetamol 
-[21-Nov-2021 03:04:35]::[INFO]:: Product not found 
-[21-Nov-2021 03:04:35]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 03:07:43]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:07:53]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:07:59]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:08:03]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 03:08:03]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 03:08:03]::[INFO]:: Paracetamol 
-[21-Nov-2021 03:08:03]::[INFO]:: Combiflame 
-[21-Nov-2021 03:08:03]::[INFO]:: Diclofenac 
-[21-Nov-2021 03:08:03]::[INFO]:: Aceclofenac 
-[21-Nov-2021 03:08:03]::[INFO]:: Amoxicillin 
-[21-Nov-2021 03:08:03]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 03:08:08]::[INFO]:: 5 
-[21-Nov-2021 03:11:18]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:11:26]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:11:32]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:11:36]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 03:11:36]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 03:11:36]::[INFO]:: Paracetamol 
-[21-Nov-2021 03:11:36]::[INFO]:: Combiflame 
-[21-Nov-2021 03:11:36]::[INFO]:: Diclofenac 
-[21-Nov-2021 03:11:36]::[INFO]:: Aceclofenac 
-[21-Nov-2021 03:11:36]::[INFO]:: Amoxicillin 
-[21-Nov-2021 03:11:36]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 03:11:40]::[INFO]:: 5 
-[21-Nov-2021 03:11:40]::[INFO]:: We are in page -->  http://localhost:8080/medicare/show/all/products 
-[21-Nov-2021 03:15:48]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:15:56]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:16:02]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:16:06]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 03:16:06]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 03:16:06]::[INFO]:: Paracetamol 
-[21-Nov-2021 03:16:06]::[INFO]:: Combiflame 
-[21-Nov-2021 03:16:06]::[INFO]:: Diclofenac 
-[21-Nov-2021 03:16:06]::[INFO]:: Aceclofenac 
-[21-Nov-2021 03:16:06]::[INFO]:: Amoxicillin 
-[21-Nov-2021 03:16:06]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 03:16:11]::[INFO]:: 5 
-[21-Nov-2021 03:19:31]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:19:41]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:19:47]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:19:51]::[INFO]:: Total number of products in the page = 5 
-[21-Nov-2021 03:19:51]::[INFO]:: Products listed in the current page are :  
-[21-Nov-2021 03:19:51]::[INFO]:: Paracetamol 
-[21-Nov-2021 03:19:51]::[INFO]:: Combiflame 
-[21-Nov-2021 03:19:51]::[INFO]:: Diclofenac 
-[21-Nov-2021 03:19:51]::[INFO]:: Aceclofenac 
-[21-Nov-2021 03:19:51]::[INFO]:: Amoxicillin 
-[21-Nov-2021 03:19:51]::[INFO]:: All Products list page validation Passed 
-[21-Nov-2021 03:19:56]::[INFO]:: 5 
-[21-Nov-2021 03:35:52]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:36:01]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:36:06]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:36:11]::[INFO]:: 5 
-[21-Nov-2021 03:37:18]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:37:28]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:37:34]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:40:09]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:40:21]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:40:27]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:40:31]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 03:41:26]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:41:37]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:41:42]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:41:47]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 03:43:32]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:43:41]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:43:47]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:43:51]::[INFO]:: Product not found 
-[21-Nov-2021 03:43:52]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:43:52]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 03:43:55]::[INFO]:: Product not found 
-[21-Nov-2021 03:43:55]::[INFO]:: Product not found 
-[21-Nov-2021 03:43:55]::[INFO]:: Product not found 
-[21-Nov-2021 03:43:55]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 03:45:19]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:45:28]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:45:34]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:45:38]::[INFO]:: Product not found 
-[21-Nov-2021 03:45:38]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:45:38]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 03:45:38]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 03:45:42]::[INFO]:: Product not found 
-[21-Nov-2021 03:45:42]::[INFO]:: Product not found 
-[21-Nov-2021 03:45:42]::[INFO]:: Product not found 
-[21-Nov-2021 03:50:59]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:51:08]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:51:14]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:51:18]::[INFO]:: Product not found 
-[21-Nov-2021 03:51:18]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:51:18]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 03:51:19]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=updated 
-[21-Nov-2021 03:51:22]::[INFO]:: Product not found 
-[21-Nov-2021 03:51:22]::[INFO]:: Product not found 
-[21-Nov-2021 03:51:22]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:51:22]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 03:51:23]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 03:54:38]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:54:47]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:54:52]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:54:57]::[INFO]:: Product not matched 
-[21-Nov-2021 03:54:57]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:54:57]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 03:54:57]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 03:55:00]::[INFO]:: Product not matched 
-[21-Nov-2021 03:55:01]::[INFO]:: Product not matched 
-[21-Nov-2021 03:55:01]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:55:01]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 03:55:02]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 03:58:07]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 03:58:17]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 03:58:23]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 03:58:27]::[INFO]:: Product not matched 
-[21-Nov-2021 03:58:27]::[INFO]:: Inside add medicine to cart 
-[21-Nov-2021 03:58:27]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 03:58:28]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 03:58:31]::[INFO]:: Product not matched 
-[21-Nov-2021 03:58:31]::[INFO]:: Product not matched 
-[21-Nov-2021 03:58:31]::[INFO]:: Product not matched 
-[21-Nov-2021 03:59:56]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:00:04]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:00:10]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:00:14]::[INFO]:: Product not matched 
-[21-Nov-2021 04:00:14]::[INFO]:: Inside add medicine to cart & looking for Combiflame 
-[21-Nov-2021 04:00:15]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:00:15]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 04:00:18]::[INFO]:: Product not matched 
-[21-Nov-2021 04:00:18]::[INFO]:: Product not matched 
-[21-Nov-2021 04:00:18]::[INFO]:: Product not matched 
-[21-Nov-2021 04:01:18]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:01:26]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:01:31]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:01:36]::[INFO]:: Product not matched 
-[21-Nov-2021 04:01:36]::[INFO]:: Inside add medicine to cart & looking for Combiflame 
-[21-Nov-2021 04:01:36]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:01:36]::[INFO]:: We are in page -->  http://localhost:8080/medicare/cart/show?result=added 
-[21-Nov-2021 04:01:39]::[INFO]:: Product not matched 
-[21-Nov-2021 04:01:39]::[INFO]:: Product not matched 
-[21-Nov-2021 04:01:39]::[INFO]:: Product not matched 
-[21-Nov-2021 04:04:00]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:04:08]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:04:14]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:06:00]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:06:07]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:06:13]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:07:43]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:07:53]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:07:59]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:10:04]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:10:11]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:10:17]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:10:22]::[INFO]:: 2 
-[21-Nov-2021 04:13:40]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:13:49]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:13:55]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:15:57]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:16:05]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:16:11]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:16:16]::[INFO]:: Product not matched 
-[21-Nov-2021 04:16:16]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:16:19]::[INFO]:: Product not matched 
-[21-Nov-2021 04:16:19]::[INFO]:: Product not matched 
-[21-Nov-2021 04:16:20]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 04:32:47]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:32:56]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:33:02]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:33:07]::[INFO]:: Product not matched 
-[21-Nov-2021 04:33:07]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:33:10]::[INFO]:: Product not matched 
-[21-Nov-2021 04:33:10]::[INFO]:: Product not matched 
-[21-Nov-2021 04:33:10]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 04:34:45]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:34:54]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:35:00]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:35:04]::[INFO]:: Product not matched 
-[21-Nov-2021 04:35:04]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:35:08]::[INFO]:: Product not matched 
-[21-Nov-2021 04:35:08]::[INFO]:: Product not matched 
-[21-Nov-2021 04:35:08]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 04:35:12]::[INFO]:: Combiflame 
-[21-Nov-2021 04:35:12]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 04:49:50]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:50:00]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:50:06]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:50:11]::[INFO]:: Product not matched 
-[21-Nov-2021 04:50:11]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:50:14]::[INFO]:: Product not matched 
-[21-Nov-2021 04:50:14]::[INFO]:: Product not matched 
-[21-Nov-2021 04:50:14]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 04:50:18]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 04:57:53]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 04:58:03]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 04:58:08]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 04:58:13]::[INFO]:: Product not matched 
-[21-Nov-2021 04:58:13]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 04:58:16]::[INFO]:: Product not matched 
-[21-Nov-2021 04:58:16]::[INFO]:: Product not matched 
-[21-Nov-2021 04:58:16]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 04:58:21]::[INFO]:: In Tear Down... All tests executions completed 
-[21-Nov-2021 05:08:27]::[INFO]:: Setup for testing initated. 
-[21-Nov-2021 05:08:37]::[INFO]:: Medicare WebSite Lanuched 
-[21-Nov-2021 05:08:43]::[INFO]:: Login Successful validation passed 
-[21-Nov-2021 05:08:47]::[INFO]:: Product not matched 
-[21-Nov-2021 05:08:47]::[INFO]:: Product Added : Combiflame 
-[21-Nov-2021 05:08:51]::[INFO]:: Product not matched 
-[21-Nov-2021 05:08:51]::[INFO]:: Product not matched 
-[21-Nov-2021 05:08:51]::[INFO]:: Product Added : Amoxicillin 
-[21-Nov-2021 05:08:55]::[INFO]:: In Tear Down... All tests executions completed 
+[24-Nov-2021 10:25:21]::[INFO]:: Setup for testing initated. 
+[24-Nov-2021 10:25:29]::[INFO]:: Medicare WebSite Lanuched 
+[24-Nov-2021 10:25:31]::[INFO]:: About page validation passed 
+[24-Nov-2021 10:25:34]::[INFO]:: Home Page Passed 
+[24-Nov-2021 10:25:38]::[INFO]:: Contact Us page test passed 
+[24-Nov-2021 10:25:43]::[INFO]:: View Product Page validation Passed 
+[24-Nov-2021 10:25:52]::[INFO]:: Antipyretics validation Passed 
+[24-Nov-2021 10:26:01]::[INFO]:: Analgesics validation Passed 
+[24-Nov-2021 10:26:11]::[INFO]:: Antibiotics Page validation Passed 
+[24-Nov-2021 10:26:15]::[INFO]:: Sign Up - Personal page validation passed 
+[24-Nov-2021 10:26:19]::[INFO]:: Login page validation passed 
+[24-Nov-2021 10:26:24]::[WARN]:: Error Message on the Login Page ---> Please enter a valid email address! 
+[24-Nov-2021 10:26:24]::[INFO]:: Invalid user message validation passed 
+[24-Nov-2021 10:26:29]::[WARN]:: Error Message on the Login Page ---> Please enter your password! 
+[24-Nov-2021 10:26:29]::[INFO]:: Login with proper username and password validation passed 
+[24-Nov-2021 10:26:34]::[INFO]:: Login Successful validation passed 
+[24-Nov-2021 10:26:38]::[INFO]:: Total number of products in the page = 5 
+[24-Nov-2021 10:26:38]::[INFO]:: Products listed in the current page are :  
+[24-Nov-2021 10:26:38]::[INFO]:: Paracetamol 
+[24-Nov-2021 10:26:38]::[INFO]:: Combiflame 
+[24-Nov-2021 10:26:38]::[INFO]:: Diclofenac 
+[24-Nov-2021 10:26:38]::[INFO]:: Aceclofenac 
+[24-Nov-2021 10:26:38]::[INFO]:: Amoxicillin 
+[24-Nov-2021 10:26:39]::[INFO]:: All Products list page validation Passed 
+[24-Nov-2021 10:26:43]::[INFO]:: Product not matched 
+[24-Nov-2021 10:26:43]::[INFO]:: Product Added : Combiflame 
+[24-Nov-2021 10:26:46]::[INFO]:: Product not matched 
+[24-Nov-2021 10:26:46]::[INFO]:: Product not matched 
+[24-Nov-2021 10:26:46]::[INFO]:: Product Added : Amoxicillin 
+[24-Nov-2021 10:26:50]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[24-Nov-2021 10:26:50]::[INFO]:: Add product to cart validation passed 
+[24-Nov-2021 10:26:55]::[INFO]:: 2 
+[24-Nov-2021 10:26:55]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[24-Nov-2021 10:26:55]::[INFO]:: Products in the cart validation passed. 
+[24-Nov-2021 10:26:57]::[INFO]:: Checkout is enabled to proceed. 
+[24-Nov-2021 10:27:01]::[ERROR]:: org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//a[text()='Select']/@href" is: [object Attr]. It should be an element.
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a4084279425fc4380055fc9b048d4c9, findElement {using=xpath, value=//a[text()='Select']/@href}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:60958}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:60958/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a4084279425fc4380055fc9b048d4c9 
+[24-Nov-2021 10:27:01]::[INFO]:: In Tear Down... All tests executions completed 
+[24-Nov-2021 10:41:30]::[INFO]:: Setup for testing initated. 
+[24-Nov-2021 10:41:38]::[INFO]:: Medicare WebSite Lanuched 
+[24-Nov-2021 10:41:40]::[INFO]:: About page validation passed 
+[24-Nov-2021 10:41:43]::[INFO]:: Home Page Passed 
+[24-Nov-2021 10:41:47]::[INFO]:: Contact Us page test passed 
+[24-Nov-2021 10:41:51]::[INFO]:: View Product Page validation Passed 
+[24-Nov-2021 10:42:01]::[INFO]:: Antipyretics validation Passed 
+[24-Nov-2021 10:42:10]::[INFO]:: Analgesics validation Passed 
+[24-Nov-2021 10:42:19]::[INFO]:: Antibiotics Page validation Passed 
+[24-Nov-2021 10:42:24]::[INFO]:: Sign Up - Personal page validation passed 
+[24-Nov-2021 10:42:27]::[INFO]:: Login page validation passed 
+[24-Nov-2021 10:42:33]::[WARN]:: Error Message on the Login Page ---> Please enter a valid email address! 
+[24-Nov-2021 10:42:33]::[INFO]:: Invalid user message validation passed 
+[24-Nov-2021 10:42:38]::[WARN]:: Error Message on the Login Page ---> Please enter your password! 
+[24-Nov-2021 10:42:38]::[INFO]:: Login with proper username and password validation passed 
+[24-Nov-2021 10:42:43]::[INFO]:: Login Successful validation passed 
+[24-Nov-2021 10:42:47]::[INFO]:: Total number of products in the page = 5 
+[24-Nov-2021 10:42:47]::[INFO]:: Products listed in the current page are :  
+[24-Nov-2021 10:42:47]::[INFO]:: Paracetamol 
+[24-Nov-2021 10:42:47]::[INFO]:: Combiflame 
+[24-Nov-2021 10:42:47]::[INFO]:: Diclofenac 
+[24-Nov-2021 10:42:47]::[INFO]:: Aceclofenac 
+[24-Nov-2021 10:42:47]::[INFO]:: Amoxicillin 
+[24-Nov-2021 10:42:47]::[INFO]:: All Products list page validation Passed 
+[24-Nov-2021 10:42:51]::[INFO]:: Product not matched 
+[24-Nov-2021 10:42:51]::[INFO]:: Product Added : Combiflame 
+[24-Nov-2021 10:42:55]::[INFO]:: Product not matched 
+[24-Nov-2021 10:42:55]::[INFO]:: Product not matched 
+[24-Nov-2021 10:42:55]::[INFO]:: Product Added : Amoxicillin 
+[24-Nov-2021 10:42:59]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=updated 
+[24-Nov-2021 10:43:03]::[INFO]:: 2 
+[24-Nov-2021 10:43:03]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[24-Nov-2021 10:43:03]::[INFO]:: Products in the cart validation passed. 
+[24-Nov-2021 10:43:05]::[INFO]:: Checkout is enabled to proceed. 
+[24-Nov-2021 10:43:07]::[INFO]:: In Tear Down... All tests executions completed 
+[24-Nov-2021 10:43:45]::[INFO]:: Setup for testing initated. 
+[24-Nov-2021 10:43:51]::[INFO]:: Medicare WebSite Lanuched 
+[24-Nov-2021 10:43:53]::[INFO]:: About page validation passed 
+[24-Nov-2021 10:43:56]::[INFO]:: Home Page Passed 
+[24-Nov-2021 10:44:00]::[INFO]:: Contact Us page test passed 
+[24-Nov-2021 10:44:04]::[INFO]:: View Product Page validation Passed 
+[24-Nov-2021 10:44:14]::[INFO]:: Antipyretics validation Passed 
+[24-Nov-2021 10:44:23]::[INFO]:: Analgesics validation Passed 
+[24-Nov-2021 10:44:32]::[INFO]:: Antibiotics Page validation Passed 
+[24-Nov-2021 10:44:37]::[INFO]:: Sign Up - Personal page validation passed 
+[24-Nov-2021 10:44:40]::[INFO]:: Login page validation passed 
+[24-Nov-2021 10:44:46]::[WARN]:: Error Message on the Login Page ---> Please enter a valid email address! 
+[24-Nov-2021 10:44:46]::[INFO]:: Invalid user message validation passed 
+[24-Nov-2021 10:44:51]::[WARN]:: Error Message on the Login Page ---> Please enter your password! 
+[24-Nov-2021 10:44:51]::[INFO]:: Login with proper username and password validation passed 
+[24-Nov-2021 10:44:55]::[INFO]:: Login Successful validation passed 
+[24-Nov-2021 10:45:00]::[INFO]:: Total number of products in the page = 5 
+[24-Nov-2021 10:45:00]::[INFO]:: Products listed in the current page are :  
+[24-Nov-2021 10:45:00]::[INFO]:: Paracetamol 
+[24-Nov-2021 10:45:00]::[INFO]:: Combiflame 
+[24-Nov-2021 10:45:00]::[INFO]:: Diclofenac 
+[24-Nov-2021 10:45:00]::[INFO]:: Aceclofenac 
+[24-Nov-2021 10:45:00]::[INFO]:: Amoxicillin 
+[24-Nov-2021 10:45:00]::[INFO]:: All Products list page validation Passed 
+[24-Nov-2021 10:45:04]::[INFO]:: Product not matched 
+[24-Nov-2021 10:45:04]::[INFO]:: Product Added : Combiflame 
+[24-Nov-2021 10:45:08]::[INFO]:: Product not matched 
+[24-Nov-2021 10:45:08]::[INFO]:: Product not matched 
+[24-Nov-2021 10:45:08]::[INFO]:: Product Added : Amoxicillin 
+[24-Nov-2021 10:45:12]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[24-Nov-2021 10:45:12]::[INFO]:: Add product to cart validation passed 
+[24-Nov-2021 10:45:16]::[INFO]:: 2 
+[24-Nov-2021 10:45:16]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[24-Nov-2021 10:45:16]::[INFO]:: Products in the cart validation passed. 
+[24-Nov-2021 10:45:18]::[INFO]:: Checkout is enabled to proceed. 
+[24-Nov-2021 10:45:20]::[INFO]:: In Tear Down... All tests executions completed 
+[24-Nov-2021 10:47:19]::[INFO]:: Setup for testing initated. 
+[24-Nov-2021 10:47:26]::[INFO]:: Medicare WebSite Lanuched 
+[24-Nov-2021 10:47:32]::[INFO]:: Login Successful validation passed 
+[24-Nov-2021 10:47:36]::[INFO]:: Total number of products in the page = 5 
+[24-Nov-2021 10:47:36]::[INFO]:: Products listed in the current page are :  
+[24-Nov-2021 10:47:36]::[INFO]:: Paracetamol 
+[24-Nov-2021 10:47:36]::[INFO]:: Combiflame 
+[24-Nov-2021 10:47:36]::[INFO]:: Diclofenac 
+[24-Nov-2021 10:47:36]::[INFO]:: Aceclofenac 
+[24-Nov-2021 10:47:36]::[INFO]:: Amoxicillin 
+[24-Nov-2021 10:47:36]::[INFO]:: All Products list page validation Passed 
+[24-Nov-2021 10:47:41]::[INFO]:: Product not matched 
+[24-Nov-2021 10:47:41]::[INFO]:: Product Added : Combiflame 
+[24-Nov-2021 10:47:44]::[INFO]:: Product not matched 
+[24-Nov-2021 10:47:44]::[INFO]:: Product not matched 
+[24-Nov-2021 10:47:44]::[INFO]:: Product Added : Amoxicillin 
+[24-Nov-2021 10:47:48]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[24-Nov-2021 10:47:48]::[INFO]:: Add product to cart validation passed 
+[24-Nov-2021 10:47:54]::[INFO]:: 2 
+[24-Nov-2021 10:47:54]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[24-Nov-2021 10:47:54]::[INFO]:: Products in the cart validation passed. 
+[24-Nov-2021 10:47:56]::[INFO]:: Checkout is enabled to proceed. 
+[24-Nov-2021 10:47:58]::[INFO]:: In Tear Down... All tests executions completed 
+[24-Nov-2021 10:49:09]::[INFO]:: Setup for testing initated. 
+[24-Nov-2021 10:49:16]::[INFO]:: Medicare WebSite Lanuched 
+[24-Nov-2021 10:49:21]::[INFO]:: Login Successful validation passed 
+[24-Nov-2021 10:49:26]::[INFO]:: Total number of products in the page = 5 
+[24-Nov-2021 10:49:26]::[INFO]:: Products listed in the current page are :  
+[24-Nov-2021 10:49:26]::[INFO]:: Paracetamol 
+[24-Nov-2021 10:49:26]::[INFO]:: Combiflame 
+[24-Nov-2021 10:49:26]::[INFO]:: Diclofenac 
+[24-Nov-2021 10:49:26]::[INFO]:: Aceclofenac 
+[24-Nov-2021 10:49:26]::[INFO]:: Amoxicillin 
+[24-Nov-2021 10:49:26]::[INFO]:: All Products list page validation Passed 
+[24-Nov-2021 10:49:30]::[INFO]:: Product not matched 
+[24-Nov-2021 10:49:30]::[INFO]:: Product Added : Combiflame 
+[24-Nov-2021 10:49:34]::[INFO]:: Product not matched 
+[24-Nov-2021 10:49:34]::[INFO]:: Product not matched 
+[24-Nov-2021 10:49:34]::[INFO]:: Product Added : Amoxicillin 
+[24-Nov-2021 10:49:38]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=updated 
+[24-Nov-2021 10:49:43]::[INFO]:: 2 
+[24-Nov-2021 10:49:43]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[24-Nov-2021 10:49:43]::[INFO]:: Products in the cart validation passed. 
+[24-Nov-2021 10:49:45]::[INFO]:: Checkout is enabled to proceed. 
+[24-Nov-2021 10:49:51]::[ERROR]:: org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//a[text()='Select']/@href" is: [object Attr]. It should be an element.
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c21500e76f5f4fcf87839ce2d1211595, findElement {using=xpath, value=//a[text()='Select']/@href}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:51357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:51357/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c21500e76f5f4fcf87839ce2d1211595 
+[24-Nov-2021 10:49:51]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:13:24]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:13:32]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:13:38]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:13:42]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:13:42]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:13:42]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:13:42]::[INFO]:: Combiflame 
+[25-Nov-2021 08:13:42]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:13:42]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:13:42]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:13:42]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:13:47]::[INFO]:: Product not matched 
+[25-Nov-2021 08:13:47]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:13:50]::[INFO]:: Product not matched 
+[25-Nov-2021 08:13:50]::[INFO]:: Product not matched 
+[25-Nov-2021 08:13:50]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:13:54]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:13:54]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:13:59]::[INFO]:: 2 
+[25-Nov-2021 08:13:59]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:13:59]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:14:01]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:14:07]::[ERROR]:: org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//a[text()='Select']/@href" is: [object Attr]. It should be an element.
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8675c7820244d7cc67a9a020a7086a33, findElement {using=xpath, value=//a[text()='Select']/@href}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:61619}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:61619/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8675c7820244d7cc67a9a020a7086a33 
+[25-Nov-2021 08:14:07]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:24:22]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:24:30]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:24:36]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:24:40]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:24:40]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:24:40]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:24:40]::[INFO]:: Combiflame 
+[25-Nov-2021 08:24:40]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:24:40]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:24:40]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:24:40]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:24:44]::[INFO]:: Product not matched 
+[25-Nov-2021 08:24:45]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:24:48]::[INFO]:: Product not matched 
+[25-Nov-2021 08:24:48]::[INFO]:: Product not matched 
+[25-Nov-2021 08:24:48]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:24:52]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=updated 
+[25-Nov-2021 08:24:57]::[INFO]:: 2 
+[25-Nov-2021 08:24:57]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:24:57]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:24:59]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:25:05]::[INFO]:: [[ChromeDriver: chrome on MAC (7c3a3aa9421df64823e21eb1df23cbc1)] -> link text: Select] 
+[25-Nov-2021 08:25:05]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:25:07]::[ERROR]:: org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//a[text()='Pay']/@href" is: [object Attr]. It should be an element.
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7c3a3aa9421df64823e21eb1df23cbc1, findElement {using=xpath, value=//a[text()='Pay']/@href}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:64383}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:64383/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7c3a3aa9421df64823e21eb1df23cbc1 
+[25-Nov-2021 08:25:07]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:28:13]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:28:21]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:28:27]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:28:31]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:28:31]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:28:31]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:28:31]::[INFO]:: Combiflame 
+[25-Nov-2021 08:28:31]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:28:31]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:28:32]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:28:32]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:28:36]::[INFO]:: Product not matched 
+[25-Nov-2021 08:28:36]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:28:39]::[INFO]:: Product not matched 
+[25-Nov-2021 08:28:39]::[INFO]:: Product not matched 
+[25-Nov-2021 08:28:40]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:28:44]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:28:44]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:28:49]::[INFO]:: 2 
+[25-Nov-2021 08:28:49]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:28:49]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:28:51]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:28:56]::[INFO]:: [[ChromeDriver: chrome on MAC (ce81157f1def7e3bf8003cff08c63036)] -> link text: Select] 
+[25-Nov-2021 08:28:56]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:28:58]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:29:07]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:29:07]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:29:09]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:29:09]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:35:11]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:35:18]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:35:23]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:35:28]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:35:28]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:35:28]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:35:28]::[INFO]:: Combiflame 
+[25-Nov-2021 08:35:28]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:35:28]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:35:28]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:35:28]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:35:32]::[INFO]:: Product not matched 
+[25-Nov-2021 08:35:32]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:35:36]::[INFO]:: Product not matched 
+[25-Nov-2021 08:35:36]::[INFO]:: Product not matched 
+[25-Nov-2021 08:35:36]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:35:40]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:35:40]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:35:45]::[INFO]:: 2 
+[25-Nov-2021 08:35:45]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:35:45]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:35:47]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:35:52]::[INFO]:: [[ChromeDriver: chrome on MAC (2fb22707791f73eefe1f2fe8e0dd4087)] -> link text: Select] 
+[25-Nov-2021 08:35:52]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:35:54]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:36:03]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:36:03]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:36:05]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:36:05]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:38:09]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:38:16]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:38:21]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:38:26]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:38:26]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:38:26]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:38:26]::[INFO]:: Combiflame 
+[25-Nov-2021 08:38:26]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:38:26]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:38:26]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:38:26]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:38:30]::[INFO]:: Product not matched 
+[25-Nov-2021 08:38:30]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:38:34]::[INFO]:: Product not matched 
+[25-Nov-2021 08:38:34]::[INFO]:: Product not matched 
+[25-Nov-2021 08:38:34]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:38:38]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:38:38]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:38:43]::[INFO]:: 2 
+[25-Nov-2021 08:38:43]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:38:43]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:38:45]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:38:50]::[INFO]:: [[ChromeDriver: chrome on MAC (636fe94c2b6055a37973d7a032aebef2)] -> link text: Select] 
+[25-Nov-2021 08:38:50]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:38:52]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:39:01]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:39:01]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:39:03]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:39:03]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:44:24]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:44:31]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:44:37]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:44:41]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:44:41]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:44:41]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:44:41]::[INFO]:: Combiflame 
+[25-Nov-2021 08:44:41]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:44:41]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:44:41]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:44:41]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:44:45]::[INFO]:: Product not matched 
+[25-Nov-2021 08:44:45]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:44:49]::[INFO]:: Product not matched 
+[25-Nov-2021 08:44:49]::[INFO]:: Product not matched 
+[25-Nov-2021 08:44:49]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:44:53]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:44:53]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:44:58]::[INFO]:: 2 
+[25-Nov-2021 08:44:58]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:44:58]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:45:00]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:45:06]::[INFO]:: [[ChromeDriver: chrome on MAC (eda30bc9120d022e373850ebc4b0a4da)] -> link text: Select] 
+[25-Nov-2021 08:45:06]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:45:08]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:45:16]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:45:16]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:45:18]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:45:21]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 08:45:21]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eda30bc9120d022e373850ebc4b0a4da, clickElement {id=cf9f9339-def1-4cb5-956c-990cedba674f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:52948}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:52948/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (eda30bc9120d022e373850ebc4b0a4da)] -> xpath: //*[@id='logout']/a]
+Session ID: eda30bc9120d022e373850ebc4b0a4da 
+[25-Nov-2021 08:45:21]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:51:01]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:51:10]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:51:16]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:51:20]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:51:20]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:51:20]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:51:20]::[INFO]:: Combiflame 
+[25-Nov-2021 08:51:20]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:51:20]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:51:20]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:51:20]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:51:25]::[INFO]:: Product not matched 
+[25-Nov-2021 08:51:25]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:51:28]::[INFO]:: Product not matched 
+[25-Nov-2021 08:51:28]::[INFO]:: Product not matched 
+[25-Nov-2021 08:51:28]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:51:32]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:51:32]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:51:37]::[INFO]:: 2 
+[25-Nov-2021 08:51:38]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:51:38]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:51:40]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:51:45]::[INFO]:: [[ChromeDriver: chrome on MAC (f2087a948eef6bb3fa1b4b5f8228fd11)] -> link text: Select] 
+[25-Nov-2021 08:51:45]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:51:47]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:51:55]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:51:55]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:51:57]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:52:01]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 08:52:01]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2087a948eef6bb3fa1b4b5f8228fd11, clickElement {id=c807ad54-416c-4f63-83ce-f491e8f256f8}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:54681}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:54681/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (f2087a948eef6bb3fa1b4b5f8228fd11)] -> xpath: //*[@id='logout']/a]
+Session ID: f2087a948eef6bb3fa1b4b5f8228fd11 
+[25-Nov-2021 08:52:03]::[INFO]:: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='alert alert-success']' 
+[25-Nov-2021 08:52:03]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:54:15]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:54:37]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:54:49]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:54:53]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:54:53]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:54:54]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:54:54]::[INFO]:: Combiflame 
+[25-Nov-2021 08:54:54]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:54:54]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:54:54]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:54:54]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:54:58]::[INFO]:: Product not matched 
+[25-Nov-2021 08:54:58]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:55:01]::[INFO]:: Product not matched 
+[25-Nov-2021 08:55:01]::[INFO]:: Product not matched 
+[25-Nov-2021 08:55:02]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:55:06]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:55:06]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:55:11]::[INFO]:: 2 
+[25-Nov-2021 08:55:11]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:55:11]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:55:13]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:55:18]::[INFO]:: [[ChromeDriver: chrome on MAC (0d305c1234b40e40922c0206d4dc4487)] -> link text: Select] 
+[25-Nov-2021 08:55:18]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:55:20]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:55:28]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:55:28]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:55:31]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:55:36]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 08:55:36]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d305c1234b40e40922c0206d4dc4487, clickElement {id=aaad067e-a35e-4979-99b9-ef57da66830a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:55485}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:55485/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (0d305c1234b40e40922c0206d4dc4487)] -> xpath: //*[@id='logout']/a]
+Session ID: 0d305c1234b40e40922c0206d4dc4487 
+[25-Nov-2021 08:55:38]::[INFO]:: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='alert alert-success']' 
+[25-Nov-2021 08:55:38]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:57:23]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:57:34]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:57:40]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:57:44]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:57:44]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:57:44]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:57:44]::[INFO]:: Combiflame 
+[25-Nov-2021 08:57:44]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:57:44]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:57:44]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:57:44]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:57:48]::[INFO]:: Product not matched 
+[25-Nov-2021 08:57:49]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:57:52]::[INFO]:: Product not matched 
+[25-Nov-2021 08:57:52]::[INFO]:: Product not matched 
+[25-Nov-2021 08:57:52]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:57:56]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:57:56]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:58:01]::[INFO]:: 2 
+[25-Nov-2021 08:58:01]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:58:01]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:58:03]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:58:08]::[INFO]:: [[ChromeDriver: chrome on MAC (002d4cd6bf1233fe9ce14a974b5c54e8)] -> link text: Select] 
+[25-Nov-2021 08:58:08]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 08:58:11]::[INFO]:: Payment validation passed 
+[25-Nov-2021 08:58:19]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 08:58:19]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 08:58:21]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 08:58:26]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 08:58:26]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [002d4cd6bf1233fe9ce14a974b5c54e8, clickElement {id=f20536a5-1935-4169-8330-b6006136423b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:56276}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56276/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (002d4cd6bf1233fe9ce14a974b5c54e8)] -> xpath: //*[@id='logout']/a]
+Session ID: 002d4cd6bf1233fe9ce14a974b5c54e8 
+[25-Nov-2021 08:58:28]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 08:59:17]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 08:59:25]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 08:59:30]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 08:59:35]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 08:59:35]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 08:59:35]::[INFO]:: Paracetamol 
+[25-Nov-2021 08:59:35]::[INFO]:: Combiflame 
+[25-Nov-2021 08:59:35]::[INFO]:: Diclofenac 
+[25-Nov-2021 08:59:35]::[INFO]:: Aceclofenac 
+[25-Nov-2021 08:59:35]::[INFO]:: Amoxicillin 
+[25-Nov-2021 08:59:35]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 08:59:39]::[INFO]:: Product not matched 
+[25-Nov-2021 08:59:39]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 08:59:43]::[INFO]:: Product not matched 
+[25-Nov-2021 08:59:43]::[INFO]:: Product not matched 
+[25-Nov-2021 08:59:43]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 08:59:47]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 08:59:47]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 08:59:52]::[INFO]:: 2 
+[25-Nov-2021 08:59:52]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 08:59:52]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 08:59:54]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 08:59:59]::[INFO]:: [[ChromeDriver: chrome on MAC (4c5fa085c4fa4516f03281820bf83a8c)] -> link text: Select] 
+[25-Nov-2021 09:00:00]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 09:00:02]::[INFO]:: Payment validation passed 
+[25-Nov-2021 09:00:10]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 09:00:10]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 09:00:12]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 09:00:17]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 09:00:17]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c5fa085c4fa4516f03281820bf83a8c, clickElement {id=0cd69e1e-c8a6-4476-9c5e-e3e3c834e683}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:56779}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56779/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (4c5fa085c4fa4516f03281820bf83a8c)] -> xpath: //*[@id='logout']/a]
+Session ID: 4c5fa085c4fa4516f03281820bf83a8c 
+[25-Nov-2021 09:00:20]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 09:02:52]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 09:03:05]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 09:03:11]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 09:03:15]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 09:03:15]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 09:03:15]::[INFO]:: Paracetamol 
+[25-Nov-2021 09:03:15]::[INFO]:: Combiflame 
+[25-Nov-2021 09:03:15]::[INFO]:: Diclofenac 
+[25-Nov-2021 09:03:15]::[INFO]:: Aceclofenac 
+[25-Nov-2021 09:03:15]::[INFO]:: Amoxicillin 
+[25-Nov-2021 09:03:15]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 09:03:20]::[INFO]:: Product not matched 
+[25-Nov-2021 09:03:20]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 09:03:23]::[INFO]:: Product not matched 
+[25-Nov-2021 09:03:23]::[INFO]:: Product not matched 
+[25-Nov-2021 09:03:23]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 09:03:27]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 09:03:27]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 09:03:32]::[INFO]:: 2 
+[25-Nov-2021 09:03:32]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 09:03:32]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 09:03:34]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 09:03:40]::[INFO]:: [[ChromeDriver: chrome on MAC (f52bfbe216bd78564a3cf64087e7b0e7)] -> link text: Select] 
+[25-Nov-2021 09:03:40]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 09:03:42]::[INFO]:: Payment validation passed 
+[25-Nov-2021 09:03:50]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 09:03:50]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 09:03:52]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 09:03:58]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 09:03:58]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f52bfbe216bd78564a3cf64087e7b0e7, clickElement {id=d8eaed45-a01e-4740-98ab-b7a4778357a0}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:57668}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:57668/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (f52bfbe216bd78564a3cf64087e7b0e7)] -> xpath: //*[@id='logout']/a]
+Session ID: f52bfbe216bd78564a3cf64087e7b0e7 
+[25-Nov-2021 09:04:02]::[ERROR]:: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='loginForm']/div[3]/div/input[2]"}
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f52bfbe216bd78564a3cf64087e7b0e7, findElement {using=xpath, value=//*[@id='loginForm']/div[3]/div/input[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:57668}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:57668/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f52bfbe216bd78564a3cf64087e7b0e7 
+[25-Nov-2021 09:04:02]::[INFO]:: In Tear Down... All tests executions completed 
+[25-Nov-2021 09:05:17]::[INFO]:: Setup for testing initated. 
+[25-Nov-2021 09:05:25]::[INFO]:: Medicare WebSite Lanuched 
+[25-Nov-2021 09:05:27]::[INFO]:: About page validation passed 
+[25-Nov-2021 09:05:30]::[INFO]:: Home Page Passed 
+[25-Nov-2021 09:05:34]::[INFO]:: Contact Us page test passed 
+[25-Nov-2021 09:05:39]::[INFO]:: View Product Page validation Passed 
+[25-Nov-2021 09:05:48]::[INFO]:: Antipyretics validation Passed 
+[25-Nov-2021 09:05:57]::[INFO]:: Analgesics validation Passed 
+[25-Nov-2021 09:06:07]::[INFO]:: Antibiotics Page validation Passed 
+[25-Nov-2021 09:06:11]::[INFO]:: Sign Up - Personal page validation passed 
+[25-Nov-2021 09:06:14]::[INFO]:: Login page validation passed 
+[25-Nov-2021 09:06:20]::[WARN]:: Error Message on the Login Page ---> Please enter a valid email address! 
+[25-Nov-2021 09:06:20]::[INFO]:: Invalid user message validation passed 
+[25-Nov-2021 09:06:25]::[WARN]:: Error Message on the Login Page ---> Please enter your password! 
+[25-Nov-2021 09:06:25]::[INFO]:: Login with proper username and password validation passed 
+[25-Nov-2021 09:06:30]::[INFO]:: Login Successful validation passed 
+[25-Nov-2021 09:06:34]::[INFO]:: Total number of products in the page = 5 
+[25-Nov-2021 09:06:34]::[INFO]:: Products listed in the current page are :  
+[25-Nov-2021 09:06:34]::[INFO]:: Paracetamol 
+[25-Nov-2021 09:06:34]::[INFO]:: Combiflame 
+[25-Nov-2021 09:06:34]::[INFO]:: Diclofenac 
+[25-Nov-2021 09:06:34]::[INFO]:: Aceclofenac 
+[25-Nov-2021 09:06:34]::[INFO]:: Amoxicillin 
+[25-Nov-2021 09:06:34]::[INFO]:: All Products list page validation Passed 
+[25-Nov-2021 09:06:38]::[INFO]:: Product not matched 
+[25-Nov-2021 09:06:38]::[INFO]:: Product Added : Combiflame 
+[25-Nov-2021 09:06:42]::[INFO]:: Product not matched 
+[25-Nov-2021 09:06:42]::[INFO]:: Product not matched 
+[25-Nov-2021 09:06:42]::[INFO]:: Product Added : Amoxicillin 
+[25-Nov-2021 09:06:46]::[INFO]:: Current URLhttp://localhost:8080/medicare/cart/show?result=added 
+[25-Nov-2021 09:06:46]::[INFO]:: Add product to cart validation passed 
+[25-Nov-2021 09:06:51]::[INFO]:: 2 
+[25-Nov-2021 09:06:51]::[INFO]:: Medicines Combiflame and Amoxicillinsuccessfully added in the cart 
+[25-Nov-2021 09:06:51]::[INFO]:: Products in the cart validation passed. 
+[25-Nov-2021 09:06:53]::[INFO]:: Checkout is enabled to proceed. 
+[25-Nov-2021 09:06:58]::[INFO]:: [[ChromeDriver: chrome on MAC (e3cf486f0f66cd4be7b1a2329e792d50)] -> link text: Select] 
+[25-Nov-2021 09:06:58]::[INFO]:: Shipping adress selection validation passed 
+[25-Nov-2021 09:07:01]::[INFO]:: Payment validation passed 
+[25-Nov-2021 09:07:09]::[INFO]:: Your Order is Confirmed!! 
+ Expected: Your Order is Confirmed!! 
+[25-Nov-2021 09:07:09]::[INFO]:: Order Confirmation Page validation passed 
+[25-Nov-2021 09:07:11]::[INFO]:: Continue Shopping Buttoon validation passed 
+[25-Nov-2021 09:07:16]::[INFO]:: Logout button validation passed 
+[25-Nov-2021 09:07:16]::[ERROR]:: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=96.0.4664.55)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3cf486f0f66cd4be7b1a2329e792d50, clickElement {id=11beaa54-8e51-4168-be5e-01ff5fb5a54b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:58281}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58281/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (e3cf486f0f66cd4be7b1a2329e792d50)] -> xpath: //*[@id='logout']/a]
+Session ID: e3cf486f0f66cd4be7b1a2329e792d50 
+[25-Nov-2021 09:07:20]::[ERROR]:: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='loginForm']/div[3]/div/input[2]"}
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'Krishnavenis-MacBook-Air.local', ip: '2409:4072:8e38:ab19:6c71:b1a7:92f2:eca2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3cf486f0f66cd4be7b1a2329e792d50, findElement {using=xpath, value=//*[@id='loginForm']/div[3]/div/input[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:58281}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58281/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3cf486f0f66cd4be7b1a2329e792d50 
+[25-Nov-2021 09:07:20]::[INFO]:: In Tear Down... All tests executions completed 

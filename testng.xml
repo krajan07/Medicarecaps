@@ -3,7 +3,7 @@
 <suite name="medicarecaps">
 	<test thread-count="5" name="Tsuites">
 		<classes>
-			<!-- class name="TSuites.SiteMap_Common" /-->
+			<class name="TSuites.SiteMap_Common" />
 			<class name="TSuites.Shopping">
 				<parameter name="username" value="tu@gmail.com"></parameter>
 				<parameter name="password" value="12345"></parameter>

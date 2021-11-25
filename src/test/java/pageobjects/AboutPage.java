@@ -19,8 +19,13 @@ public class AboutPage extends HomePage {
 	public void isAboutPage() throws InterruptedException {
 		About.click();
 		Thread.sleep(1000);
+		try {
 		Assert.assertEquals("About Us", AboutDescription.getText());
 		log.info("About page validation passed");
+		}
+		catch(Exception e) {
+			log.error(e);
+		}
 	}
 
 }

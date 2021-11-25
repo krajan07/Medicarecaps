@@ -12,7 +12,7 @@
         <parameter name="username" value="tu@gmail.com"/>
         <methods>
           <include name="TearDown"/>
-          <include name="MedAddCart" invocation-numbers="0"/>
+          <include name="userLogOutConfirm"/>
           <include name="setup"/>
         </methods>
       </class> <!-- TSuites.Shopping -->

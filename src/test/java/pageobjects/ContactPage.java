@@ -26,8 +26,12 @@ public class ContactPage extends HomePage {
 	public void isContactPage() throws InterruptedException {
 		Contact.click();
 		Thread.sleep(1000);
+		try {
 		Assert.assertEquals("Contact Us", Description.getText());
 		log.info("Contact Us page test passed");
+		} catch(Exception e) {
+			log.error(e);
+		}
 	}
 
 }

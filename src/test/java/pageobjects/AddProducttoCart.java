@@ -11,7 +11,7 @@ import org.testng.Assert;
 
 import TSuites.Base;
 
-public class AddCart extends HomePage {
+public class AddProducttoCart extends HomePage {
 
 	WebDriver driver;
 	
@@ -20,7 +20,7 @@ public class AddCart extends HomePage {
 	@FindBy(xpath = "//table[@id='cart']/tbody")
 	WebElement CartTbody;
 
-	public AddCart() {
+	public AddProducttoCart() {
 		driver = Base.driver;
 		// Web element Initializing
 		PageFactory.initElements(driver, this);
@@ -50,7 +50,15 @@ public class AddCart extends HomePage {
 			i++;
 		}
 		}while(i> row.size());
-		Assert.assertEquals("driver.getCurrentUrl();", "http://localhost:8080/medicare/cart/show");
+		String CURL = driver.getCurrentUrl();
+		log.info("Current URL" + CURL);
+		try {
+		Assert.assertEquals("http://localhost:8080/medicare/cart/show?result=added", CURL);
 		log.info("Add product to cart validation passed");
+		}
+		catch(Exception e) {
+			log.error(e);
+		}
 	}
+
 }

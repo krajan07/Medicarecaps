@@ -52,9 +52,14 @@ public class HomePage {
 
 	public void isHomePage() {
 		PropertyConfigurator.configure("config/log4j.properties");
+		try {
 		Assert.assertEquals("About", About.getText());
 		Assert.assertEquals("Contact", Contact.getText());
 		log.info("Home Page Passed");
+		}catch(Exception e) {
+			log.error(e);
+		}
 	}
+	
 
 }
