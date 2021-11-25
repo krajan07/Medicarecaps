@@ -2,15 +2,7 @@ package TSuites;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
-import pageobjects.AddProducttoCart;
-import pageobjects.CartPage;
-import pageobjects.LogInPage;
-import pageobjects.LogOutLogInPage;
-import pageobjects.LogOutPage;
-import pageobjects.OrderConfirmationPage;
-import pageobjects.ShippingPage;
-import pageobjects.ViewProductsPage;
+import pageobjects.*;
 
 public class Shopping extends Base {
 

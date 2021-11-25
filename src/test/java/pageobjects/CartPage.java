@@ -30,6 +30,7 @@ public class CartPage extends HomePage {
 		Thread.sleep(3000);
 		List<WebElement> row = CartTbody.findElements(By.tagName("tr"));
 		log.info(row.size());
+		Thread.sleep(2000);
 		int ch = 1 ,i=0;
 		try {
 		do {

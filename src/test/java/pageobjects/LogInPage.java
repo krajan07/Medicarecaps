@@ -23,8 +23,12 @@ public class LogInPage extends HomePage {
 	WebElement UError;
 	@FindBy(xpath = "//*[@id='password-error']")
 	WebElement PError;
+	@FindBy(xpath = "//*[@id='dropdownMenu1']/text()")
+	WebElement AdminUser;
+	
 
-	String u1 = "Test User";
+
+	String eu = "Test User";
 	SoftAssert softAssert = new SoftAssert();
 
 	public LogInPage() {
@@ -57,11 +61,21 @@ public class LogInPage extends HomePage {
 		ClickLogin.click();
 		Thread.sleep(1000);
 		try {
-		Assert.assertEquals(u1, CurrentUser.getText());
-		log.info("Login Successful validation passed");
+		Assert.assertEquals(eu, CurrentUser.getText());
+		log.info("Login Successful for " +uname);
 		}catch(Exception e) {
 			log.error(e);
 		}
+	}
+	
+	public void ValidAdminUserLog(String auname, String apass) throws InterruptedException {
+		Thread.sleep(1000);
+		driver.navigate().to("http://localhost:8080/medicare/login");
+		Thread.sleep(1000);
+		UserName.sendKeys(auname);
+		Password.sendKeys(apass);
+		ClickLogin.click();
+		Thread.sleep(1000);
 	}
 
 	public void InValidUserLog(String URL, String uname, String pass) throws InterruptedException {

@@ -1,59 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="2" total="21" passed="19">
+<testng-results skipped="0" failed="0" ignored="4" total="30" passed="26">
   <reporter-output>
   </reporter-output>
-  <suite name="medicarecaps" duration-ms="122993" started-at="2021-11-25T09:05:17 IST" finished-at="2021-11-25T09:07:20 IST">
+  <suite name="Medicare Capstone" duration-ms="158189" started-at="2021-11-25T14:21:32 IST" finished-at="2021-11-25T14:24:10 IST">
     <groups>
     </groups>
-    <test name="Tsuites" duration-ms="122993" started-at="2021-11-25T09:05:17 IST" finished-at="2021-11-25T09:07:20 IST">
+    <test name="Tsuites" duration-ms="158189" started-at="2021-11-25T14:21:32 IST" finished-at="2021-11-25T14:24:10 IST">
       <class name="TSuites.SiteMap_Common">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TSuites.SiteMap_Common@365185bd]" name="setup" is-config="true" duration-ms="7926" started-at="2021-11-25T09:05:17 IST" finished-at="2021-11-25T09:05:25 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TSuites.SiteMap_Common@150c158]" name="setup" is-config="true" duration-ms="7008" started-at="2021-11-25T14:21:32 IST" finished-at="2021-11-25T14:21:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="validateAboutPage()[pri:-1, instance:TSuites.SiteMap_Common@365185bd]" name="validateAboutPage" duration-ms="4563" started-at="2021-11-25T09:05:25 IST" finished-at="2021-11-25T09:05:30 IST">
+        <test-method status="PASS" signature="validateAboutPage()[pri:-1, instance:TSuites.SiteMap_Common@150c158]" name="validateAboutPage" duration-ms="4528" started-at="2021-11-25T14:21:39 IST" finished-at="2021-11-25T14:21:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAboutPage -->
-        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:TSuites.SiteMap_Common@365185bd]" name="validateHomePage" duration-ms="3067" started-at="2021-11-25T09:05:30 IST" finished-at="2021-11-25T09:05:33 IST">
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:TSuites.SiteMap_Common@150c158]" name="validateHomePage" duration-ms="3065" started-at="2021-11-25T14:21:43 IST" finished-at="2021-11-25T14:21:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateHomePage -->
-        <test-method status="PASS" signature="validateContactPage()[pri:1, instance:TSuites.SiteMap_Common@365185bd]" name="validateContactPage" duration-ms="2191" started-at="2021-11-25T09:05:33 IST" finished-at="2021-11-25T09:05:35 IST">
+        <test-method status="PASS" signature="validateContactPage()[pri:1, instance:TSuites.SiteMap_Common@150c158]" name="validateContactPage" duration-ms="2154" started-at="2021-11-25T14:21:46 IST" finished-at="2021-11-25T14:21:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateContactPage -->
-        <test-method status="PASS" signature="validateViewProducts()[pri:3, instance:TSuites.SiteMap_Common@365185bd]" name="validateViewProducts" duration-ms="6363" started-at="2021-11-25T09:05:35 IST" finished-at="2021-11-25T09:05:42 IST">
+        <test-method status="PASS" signature="validateViewProducts()[pri:3, instance:TSuites.SiteMap_Common@150c158]" name="validateViewProducts" duration-ms="6390" started-at="2021-11-25T14:21:49 IST" finished-at="2021-11-25T14:21:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateViewProducts -->
-        <test-method status="PASS" signature="validateAntipyreticsViewProducts()[pri:4, instance:TSuites.SiteMap_Common@365185bd]" name="validateAntipyreticsViewProducts" duration-ms="9323" started-at="2021-11-25T09:05:42 IST" finished-at="2021-11-25T09:05:51 IST">
+        <test-method status="PASS" signature="validateAntipyreticsViewProducts()[pri:4, instance:TSuites.SiteMap_Common@150c158]" name="validateAntipyreticsViewProducts" duration-ms="9278" started-at="2021-11-25T14:21:55 IST" finished-at="2021-11-25T14:22:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAntipyreticsViewProducts -->
-        <test-method status="PASS" signature="validateAnalgesicsViewProducts()[pri:5, instance:TSuites.SiteMap_Common@365185bd]" name="validateAnalgesicsViewProducts" duration-ms="9285" started-at="2021-11-25T09:05:51 IST" finished-at="2021-11-25T09:06:00 IST">
+        <test-method status="PASS" signature="validateAnalgesicsViewProducts()[pri:5, instance:TSuites.SiteMap_Common@150c158]" name="validateAnalgesicsViewProducts" duration-ms="9212" started-at="2021-11-25T14:22:04 IST" finished-at="2021-11-25T14:22:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAnalgesicsViewProducts -->
-        <test-method status="PASS" signature="validateAntibioticsViewProducts()[pri:6, instance:TSuites.SiteMap_Common@365185bd]" name="validateAntibioticsViewProducts" duration-ms="9284" started-at="2021-11-25T09:06:00 IST" finished-at="2021-11-25T09:06:10 IST">
+        <test-method status="PASS" signature="validateAntibioticsViewProducts()[pri:6, instance:TSuites.SiteMap_Common@150c158]" name="validateAntibioticsViewProducts" duration-ms="9227" started-at="2021-11-25T14:22:14 IST" finished-at="2021-11-25T14:22:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAntibioticsViewProducts -->
-        <test-method status="PASS" signature="validateSignupPage()[pri:7, instance:TSuites.SiteMap_Common@365185bd]" name="validateSignupPage" duration-ms="2262" started-at="2021-11-25T09:06:10 IST" finished-at="2021-11-25T09:06:12 IST">
+        <test-method status="PASS" signature="validateSignupPage()[pri:7, instance:TSuites.SiteMap_Common@150c158]" name="validateSignupPage" duration-ms="2271" started-at="2021-11-25T14:22:23 IST" finished-at="2021-11-25T14:22:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSignupPage -->
-        <test-method status="PASS" signature="validateLoginPage()[pri:8, instance:TSuites.SiteMap_Common@365185bd]" name="validateLoginPage" duration-ms="3432" started-at="2021-11-25T09:06:12 IST" finished-at="2021-11-25T09:06:15 IST">
+        <test-method status="PASS" signature="validateLoginPage()[pri:8, instance:TSuites.SiteMap_Common@150c158]" name="validateLoginPage" duration-ms="3408" started-at="2021-11-25T14:22:25 IST" finished-at="2021-11-25T14:22:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLoginPage -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:TSuites.SiteMap_Common@365185bd]" name="TearDown" is-config="true" duration-ms="101" started-at="2021-11-25T09:07:20 IST" finished-at="2021-11-25T09:07:20 IST">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TSuites.SiteMap_Common@150c158]" name="TearDown" is-config="true" duration-ms="149" started-at="2021-11-25T14:24:10 IST" finished-at="2021-11-25T14:24:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- TSuites.SiteMap_Common -->
+      <class name="TSuites.AdminActions">
+        <test-method status="PASS" signature="ValidAdminUserLoginCheck(java.lang.String,java.lang.String)[pri:0, instance:TSuites.AdminActions@2eda0940]" name="ValidAdminUserLoginCheck" duration-ms="4433" started-at="2021-11-25T14:23:35 IST" finished-at="2021-11-25T14:23:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidAdminUserLoginCheck -->
+        <test-method status="PASS" signature="ManageProductsPageConfirm()[pri:1, instance:TSuites.AdminActions@2eda0940]" name="ManageProductsPageConfirm" duration-ms="4365" started-at="2021-11-25T14:23:40 IST" finished-at="2021-11-25T14:23:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManageProductsPageConfirm -->
+        <test-method status="PASS" signature="AddMedicine(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:TSuites.AdminActions@2eda0940]" name="AddMedicine" duration-ms="5636" started-at="2021-11-25T14:23:44 IST" finished-at="2021-11-25T14:23:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ibuprofen 400mg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Reddys]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMedicine -->
+        <test-method status="PASS" signature="EditMedQty(java.lang.String,java.lang.String)[pri:3, instance:TSuites.AdminActions@2eda0940]" name="EditMedQty" duration-ms="7542" started-at="2021-11-25T14:23:50 IST" finished-at="2021-11-25T14:23:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paracetamol]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditMedQty -->
+        <test-method status="PASS" signature="EditedMedQty(java.lang.String,java.lang.String)[pri:4, instance:TSuites.AdminActions@2eda0940]" name="EditedMedQty" duration-ms="4261" started-at="2021-11-25T14:23:57 IST" finished-at="2021-11-25T14:24:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paracetamol]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditedMedQty -->
+        <test-method status="PASS" signature="userLogOutClick()[pri:5, instance:TSuites.AdminActions@2eda0940]" name="userLogOutClick" duration-ms="4043" started-at="2021-11-25T14:24:02 IST" finished-at="2021-11-25T14:24:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogOutClick -->
+        <test-method status="PASS" signature="userLogOutConfirm()[pri:6, instance:TSuites.AdminActions@2eda0940]" name="userLogOutConfirm" duration-ms="4046" started-at="2021-11-25T14:24:06 IST" finished-at="2021-11-25T14:24:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogOutConfirm -->
+      </class> <!-- TSuites.AdminActions -->
       <class name="TSuites.Shopping">
-        <test-method status="PASS" signature="InValidUserLoginCheck(java.lang.String,java.lang.String)[pri:0, instance:TSuites.Shopping@25bbf683]" name="InValidUserLoginCheck" duration-ms="4780" started-at="2021-11-25T09:06:15 IST" finished-at="2021-11-25T09:06:20 IST">
+        <test-method status="PASS" signature="InValidUserLoginCheck(java.lang.String,java.lang.String)[pri:0, instance:TSuites.Shopping@eb21112]" name="InValidUserLoginCheck" duration-ms="4671" started-at="2021-11-25T14:22:29 IST" finished-at="2021-11-25T14:22:33 IST">
           <params>
             <param index="0">
               <value>
@@ -69,7 +157,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InValidUserLoginCheck -->
-        <test-method status="PASS" signature="InValidPasswordLoginCheck(java.lang.String,java.lang.String)[pri:1, instance:TSuites.Shopping@25bbf683]" name="InValidPasswordLoginCheck" duration-ms="4632" started-at="2021-11-25T09:06:20 IST" finished-at="2021-11-25T09:06:25 IST">
+        <test-method status="PASS" signature="InValidPasswordLoginCheck(java.lang.String,java.lang.String)[pri:1, instance:TSuites.Shopping@eb21112]" name="InValidPasswordLoginCheck" duration-ms="4614" started-at="2021-11-25T14:22:33 IST" finished-at="2021-11-25T14:22:38 IST">
           <params>
             <param index="0">
               <value>
@@ -85,7 +173,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InValidPasswordLoginCheck -->
-        <test-method status="PASS" signature="ValidUserLoginCheck(java.lang.String,java.lang.String)[pri:2, instance:TSuites.Shopping@25bbf683]" name="ValidUserLoginCheck" duration-ms="4886" started-at="2021-11-25T09:06:25 IST" finished-at="2021-11-25T09:06:30 IST">
+        <test-method status="PASS" signature="ValidUserLoginCheck(java.lang.String,java.lang.String)[pri:2, instance:TSuites.Shopping@eb21112]" name="ValidUserLoginCheck" duration-ms="5192" started-at="2021-11-25T14:22:38 IST" finished-at="2021-11-25T14:22:43 IST">
           <params>
             <param index="0">
               <value>
@@ -101,11 +189,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidUserLoginCheck -->
-        <test-method status="PASS" signature="ViewProductList()[pri:2, instance:TSuites.Shopping@25bbf683]" name="ViewProductList" duration-ms="4417" started-at="2021-11-25T09:06:30 IST" finished-at="2021-11-25T09:06:34 IST">
+        <test-method status="PASS" signature="ViewProductList()[pri:2, instance:TSuites.Shopping@eb21112]" name="ViewProductList" duration-ms="4367" started-at="2021-11-25T14:22:43 IST" finished-at="2021-11-25T14:22:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViewProductList -->
-        <test-method status="PASS" signature="MedAddCart(java.lang.String,java.lang.String)[pri:3, instance:TSuites.Shopping@25bbf683]" name="MedAddCart" duration-ms="11827" started-at="2021-11-25T09:06:34 IST" finished-at="2021-11-25T09:06:46 IST">
+        <test-method status="PASS" signature="MedAddCart(java.lang.String,java.lang.String)[pri:3, instance:TSuites.Shopping@eb21112]" name="MedAddCart" duration-ms="11758" started-at="2021-11-25T14:22:47 IST" finished-at="2021-11-25T14:22:59 IST">
           <params>
             <param index="0">
               <value>
@@ -121,7 +209,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MedAddCart -->
-        <test-method status="PASS" signature="checkCart(java.lang.String,java.lang.String)[pri:4, instance:TSuites.Shopping@25bbf683]" name="checkCart" duration-ms="9333" started-at="2021-11-25T09:06:46 IST" finished-at="2021-11-25T09:06:55 IST">
+        <test-method status="PASS" signature="checkCart(java.lang.String,java.lang.String)[pri:4, instance:TSuites.Shopping@eb21112]" name="checkCart" duration-ms="11361" started-at="2021-11-25T14:22:59 IST" finished-at="2021-11-25T14:23:11 IST">
           <params>
             <param index="0">
               <value>
@@ -137,23 +225,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkCart -->
-        <test-method status="PASS" signature="selectShipping()[pri:5, instance:TSuites.Shopping@25bbf683]" name="selectShipping" duration-ms="9497" started-at="2021-11-25T09:06:55 IST" finished-at="2021-11-25T09:07:05 IST">
+        <test-method status="PASS" signature="selectShipping()[pri:5, instance:TSuites.Shopping@eb21112]" name="selectShipping" duration-ms="9435" started-at="2021-11-25T14:23:11 IST" finished-at="2021-11-25T14:23:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectShipping -->
-        <test-method status="PASS" signature="orderConfirm()[pri:6, instance:TSuites.Shopping@25bbf683]" name="orderConfirm" duration-ms="7233" started-at="2021-11-25T09:07:05 IST" finished-at="2021-11-25T09:07:12 IST">
+        <test-method status="PASS" signature="orderConfirm()[pri:6, instance:TSuites.Shopping@eb21112]" name="orderConfirm" duration-ms="7224" started-at="2021-11-25T14:23:20 IST" finished-at="2021-11-25T14:23:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderConfirm -->
-        <test-method status="PASS" signature="userLogOutClick()[pri:7, instance:TSuites.Shopping@25bbf683]" name="userLogOutClick" duration-ms="4112" started-at="2021-11-25T09:07:12 IST" finished-at="2021-11-25T09:07:16 IST">
+        <test-method status="PASS" signature="userLogOutClick()[pri:7, instance:TSuites.Shopping@eb21112]" name="userLogOutClick" duration-ms="4062" started-at="2021-11-25T14:23:27 IST" finished-at="2021-11-25T14:23:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userLogOutClick -->
-        <test-method status="PASS" signature="userLogOutConfirm()[pri:7, instance:TSuites.Shopping@25bbf683]" name="userLogOutConfirm" duration-ms="4052" started-at="2021-11-25T09:07:16 IST" finished-at="2021-11-25T09:07:20 IST">
+        <test-method status="PASS" signature="userLogOutConfirm()[pri:7, instance:TSuites.Shopping@eb21112]" name="userLogOutConfirm" duration-ms="4044" started-at="2021-11-25T14:23:31 IST" finished-at="2021-11-25T14:23:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userLogOutConfirm -->
       </class> <!-- TSuites.Shopping -->
     </test> <!-- Tsuites -->
-  </suite> <!-- medicarecaps -->
+  </suite> <!-- Medicare Capstone -->
 </testng-results>

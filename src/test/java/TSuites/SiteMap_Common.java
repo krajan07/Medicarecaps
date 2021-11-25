@@ -1,12 +1,7 @@
 package TSuites;
 
 import org.testng.annotations.Test;
-import pageobjects.AboutPage;
-import pageobjects.ContactPage;
-import pageobjects.HomePage;
-import pageobjects.LogInPage;
-import pageobjects.SignInPage;
-import pageobjects.ViewProductsPage;
+import pageobjects.*;
 
 public class SiteMap_Common extends Base {
 
