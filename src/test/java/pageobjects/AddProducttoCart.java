@@ -53,7 +53,7 @@ public class AddProducttoCart extends HomePage {
 		String CURL = driver.getCurrentUrl();
 		log.info("Current URL" + CURL);
 		try {
-		Assert.assertEquals("http://localhost:8080/medicare/cart/show?result=added", CURL);
+		Assert.assertEquals("http://localhost:8990/medicare/cart/show?result=added", CURL);
 		log.info("Add product to cart validation passed");
 		}
 		catch(Exception e) {

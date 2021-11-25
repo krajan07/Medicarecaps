@@ -1,5 +1,8 @@
 package TSuites;
 
+import java.io.IOException;
+import java.sql.SQLException;
+
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import pageobjects.*;
@@ -39,11 +42,11 @@ public class AdminActions extends Base {
 	}
 	
 	@Test(priority = 4, enabled = true)
-	@Parameters({ "medname", "qty" })
-	public void EditedMedQty(String medname, String qty) throws InterruptedException {
+	@Parameters({ "medname" })
+	public void EditedMedQty(String medname) throws Exception {
 		ManageMedicines ANP = new ManageMedicines();
 		Thread.sleep(1000);
-		ANP.EditQtyConfirm(medname, qty);		
+		ANP.EditQtyConfirm(medname);		
 	}
 	
 	@Test(priority = 5, enabled = true)
@@ -51,12 +54,5 @@ public class AdminActions extends Base {
 		LogOutPage LO = new LogOutPage();
 		Thread.sleep(2000);
 		LO.logOut();
-	}
-	
-	@Test(priority = 6, enabled = true)
-	public void userLogOutConfirm() throws InterruptedException {
-		LogOutLogInPage LOLI = new LogOutLogInPage();
-		Thread.sleep(2000);
-		LOLI.confirmlogOut();
 	}
 }

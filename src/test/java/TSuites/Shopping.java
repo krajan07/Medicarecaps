@@ -75,11 +75,4 @@ public class Shopping extends Base {
 		LO.logOut();
 	}
 	
-	@Test(priority = 7, enabled = true)
-	public void userLogOutConfirm() throws InterruptedException {
-		LogOutLogInPage LOLI = new LogOutLogInPage();
-		Thread.sleep(2000);
-		LOLI.confirmlogOut();
-	}
-	
 }

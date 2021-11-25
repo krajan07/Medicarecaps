@@ -70,7 +70,7 @@ public class LogInPage extends HomePage {
 	
 	public void ValidAdminUserLog(String auname, String apass) throws InterruptedException {
 		Thread.sleep(1000);
-		driver.navigate().to("http://localhost:8080/medicare/login");
+		driver.navigate().to("http://localhost:8990/medicare/login");
 		Thread.sleep(1000);
 		UserName.sendKeys(auname);
 		Password.sendKeys(apass);

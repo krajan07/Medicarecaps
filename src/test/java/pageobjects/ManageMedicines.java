@@ -1,7 +1,14 @@
 package pageobjects;
 
+import java.io.FileReader;
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.List;
-
+import java.util.Properties;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,7 +17,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-
 import TSuites.Base;
 
 public class ManageMedicines extends HomePage {
@@ -31,7 +37,7 @@ public class ManageMedicines extends HomePage {
 	WebElement Save;
 	@FindBy(xpath = "//table[@id='productsTable']/tbody")
 	WebElement Tbody;
-
+	
 	public ManageMedicines() {
 		driver = Base.driver;
 		// Web element Initializing
@@ -88,8 +94,15 @@ public class ManageMedicines extends HomePage {
 		Thread.sleep(2000);
 	}
 	
-	public void EditQtyConfirm(String medname, String qty) throws InterruptedException {
-		driver.navigate().to("http://localhost:8080/medicare/manage/product");
+	public void EditQtyConfirm(String medname) throws Exception {
+		Connection con = null;
+        con = ConnectionManager.getConnection();
+        Statement stmt = con.createStatement();
+        ResultSet rs = stmt.executeQuery("select quantity from medicare.Product where name=\"Paracetamol\";");
+        rs.next();
+        int Quantity = rs.getInt(1); 
+        rs.close();
+		driver.navigate().to("http://localhost:8990/medicare/manage/product");
 		Thread.sleep(3000);
 		List<WebElement> row = Tbody.findElements(By.tagName("tr"));
 		log.info("Total number of products in the page = " + row.size());
@@ -98,13 +111,10 @@ public class ManageMedicines extends HomePage {
 			ch++;
 			WebElement lname = driver.findElement(By.xpath("//*[@id='productsTable']/tbody/tr[" +ch+ "]/td[3]"));
 			String lsname = lname.getText();
-			log.info("medname " +medname+ "lsnmae " +lsname);
 			WebElement lsqty = driver.findElement(By.xpath("//*[@id='productsTable']/tbody/tr[" +ch+ "]/td[5]"));
 			String uqty = lsqty.getText();
-			log.info("Expected : " +qty+ " Actual : " +uqty);
-			
 			if(lsname.equals(medname)) {
-				Assert.assertEquals(uqty, qty);
+				Assert.assertEquals(uqty, Integer.toString(Quantity));
 				log.info("Edited quanity of product validation passed");
 			}
 		break;

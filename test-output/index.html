@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 16 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Medicare_Capstone">
-              <span class="suite-name border-passed">Medicare Capstone</span>
+              <span class="suite-name border-failed">Medicare Capstone</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -93,7 +93,96 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">26 methods,   26 passed</span>
+                    <span class="method-stats">24 methods, 16 failed,   8 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Medicare_Capstone" class="hide-methods failed suite-Medicare_Capstone"> (hide)</a> <!-- hide-methods failed suite-Medicare_Capstone -->
+                      <a href="#" panel-name="suite-Medicare_Capstone" class="show-methods failed suite-Medicare_Capstone"> (show)</a> <!-- show-methods failed suite-Medicare_Capstone -->
+                    </span>
+                    <div class="method-list-content failed suite-Medicare_Capstone">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)">AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="EditMedQty(Paracetamol, 100)">EditMedQty(Paracetamol, 100)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="EditedMedQty(Paracetamol)">EditedMedQty(Paracetamol)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="InValidPasswordLoginCheck(tu@gmail.com, )">InValidPasswordLoginCheck(tu@gmail.com, )</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="InValidUserLoginCheck(tu, 12345)">InValidUserLoginCheck(tu, 12345)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="ManageProductsPageConfirm">ManageProductsPageConfirm</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="MedAddCart(Combiflame, Amoxicillin)">MedAddCart(Combiflame, Amoxicillin)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="ValidAdminUserLoginCheck(vk@gmail.com, admin)">ValidAdminUserLoginCheck(vk@gmail.com, admin)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="ValidUserLoginCheck(tu@gmail.com, 12345)">ValidUserLoginCheck(tu@gmail.com, 12345)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="ViewProductList">ViewProductList</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="checkCart(Combiflame, Amoxicillin)">checkCart(Combiflame, Amoxicillin)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="orderConfirm">orderConfirm</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateAnalgesicsViewProducts">validateAnalgesicsViewProducts</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateAntibioticsViewProducts">validateAntibioticsViewProducts</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateLoginPage">validateLoginPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateSignupPage">validateSignupPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Medicare_Capstone -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,66 +191,6 @@
                       <a href="#" panel-name="suite-Medicare_Capstone" class="show-methods passed suite-Medicare_Capstone"> (show)</a> <!-- show-methods passed suite-Medicare_Capstone -->
                     </span>
                     <div class="method-list-content passed suite-Medicare_Capstone">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)">AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="EditMedQty(Paracetamol, 100)">EditMedQty(Paracetamol, 100)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="EditedMedQty(Paracetamol, 100)">EditedMedQty(Paracetamol, 100)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="InValidPasswordLoginCheck(tu@gmail.com, )">InValidPasswordLoginCheck(tu@gmail.com, )</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="InValidUserLoginCheck(tu, 12345)">InValidUserLoginCheck(tu, 12345)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="ManageProductsPageConfirm">ManageProductsPageConfirm</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="MedAddCart(Combiflame, Amoxicillin)">MedAddCart(Combiflame, Amoxicillin)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="ValidAdminUserLoginCheck(vk@gmail.com, admin)">ValidAdminUserLoginCheck(vk@gmail.com, admin)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="ValidUserLoginCheck(tu@gmail.com, 12345)">ValidUserLoginCheck(tu@gmail.com, 12345)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="ViewProductList">ViewProductList</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="checkCart(Combiflame, Amoxicillin)">checkCart(Combiflame, Amoxicillin)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="orderConfirm">orderConfirm</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="selectShipping">selectShipping</a> <!-- method navigator-link -->
@@ -179,27 +208,7 @@
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.Shopping" hash-for-method="userLogOutConfirm">userLogOutConfirm</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.AdminActions" hash-for-method="userLogOutConfirm">userLogOutConfirm</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateAboutPage">validateAboutPage</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateAnalgesicsViewProducts">validateAnalgesicsViewProducts</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateAntibioticsViewProducts">validateAntibioticsViewProducts</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -219,16 +228,6 @@
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateLoginPage">validateLoginPage</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateSignupPage">validateSignupPage</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Medicare_Capstone" title="TSuites.SiteMap_Common" hash-for-method="validateViewProducts">validateViewProducts</a> <!-- method navigator-link -->
                       </span>
                       <br/>
@@ -244,70 +243,157 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Medicare_Capstone" class="panel Medicare_Capstone">
-          <div class="suite-Medicare_Capstone-class-passed">
+          <div class="suite-Medicare_Capstone-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">TSuites.AdminActions</span>
+              <img src="failed.png"/>
+              <span class="class-name">TSuites.SiteMap_Common</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)">
-                  </a> <!-- AddMedicine(Ibuprofen 400mg, Reddys, 10, 1) -->
-                  <span class="method-name">AddMedicine</span>
-                  <span class="parameters">(Ibuprofen 400mg, Reddys, 10, 1)</span>
+                  <a name="validateAnalgesicsViewProducts">
+                  </a> <!-- validateAnalgesicsViewProducts -->
+                  <span class="method-name">validateAnalgesicsViewProducts</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;a_Analgesics&quot;]&quot;}
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&quot;a_Analgesics&quot;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.ViewProductsPage.isAnalgesics(ViewProductsPage.java:55)
+	at TSuites.SiteMap_Common.validateAnalgesicsViewProducts(SiteMap_Common.java:47)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="EditMedQty(Paracetamol, 100)">
-                  </a> <!-- EditMedQty(Paracetamol, 100) -->
-                  <span class="method-name">EditMedQty</span>
-                  <span class="parameters">(Paracetamol, 100)</span>
+                  <a name="validateAntibioticsViewProducts">
+                  </a> <!-- validateAntibioticsViewProducts -->
+                  <span class="method-name">validateAntibioticsViewProducts</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;a_Antibiotics&quot;]&quot;}
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&quot;a_Antibiotics&quot;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.ViewProductsPage.isAntibiotics(ViewProductsPage.java:68)
+	at TSuites.SiteMap_Common.validateAntibioticsViewProducts(SiteMap_Common.java:54)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="EditedMedQty(Paracetamol, 100)">
-                  </a> <!-- EditedMedQty(Paracetamol, 100) -->
-                  <span class="method-name">EditedMedQty</span>
-                  <span class="parameters">(Paracetamol, 100)</span>
+                  <a name="validateLoginPage">
+                  </a> <!-- validateLoginPage -->
+                  <span class="method-name">validateLoginPage</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;login&quot;]&quot;}
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&quot;login&quot;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.LogInPage.isLoginPage(LogInPage.java:44)
+	at TSuites.SiteMap_Common.validateLoginPage(SiteMap_Common.java:68)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="ManageProductsPageConfirm">
-                  </a> <!-- ManageProductsPageConfirm -->
-                  <span class="method-name">ManageProductsPageConfirm</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="ValidAdminUserLoginCheck(vk@gmail.com, admin)">
-                  </a> <!-- ValidAdminUserLoginCheck(vk@gmail.com, admin) -->
-                  <span class="method-name">ValidAdminUserLoginCheck</span>
-                  <span class="parameters">(vk@gmail.com, admin)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="userLogOutClick">
-                  </a> <!-- userLogOutClick -->
-                  <span class="method-name">userLogOutClick</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="userLogOutConfirm">
-                  </a> <!-- userLogOutConfirm -->
-                  <span class="method-name">userLogOutConfirm</span>
+                  <a name="validateSignupPage">
+                  </a> <!-- validateSignupPage -->
+                  <span class="method-name">validateSignupPage</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;signup&quot;]&quot;}
+  (Session info: chrome=96.0.4664.55)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&quot;signup&quot;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.SignInPage.isSignInPage(SignInPage.java:20)
+	at TSuites.SiteMap_Common.validateSignupPage(SiteMap_Common.java:61)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Medicare_Capstone-class-passed -->
-          <div class="suite-Medicare_Capstone-class-passed">
+          </div> <!-- suite-Medicare_Capstone-class-failed -->
+          <div class="suite-Medicare_Capstone-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
+              <img src="failed.png"/>
               <span class="class-name">TSuites.Shopping</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -317,6 +403,27 @@
                   </a> <!-- InValidPasswordLoginCheck(tu@gmail.com, ) -->
                   <span class="method-name">InValidPasswordLoginCheck</span>
                   <span class="parameters">(tu@gmail.com, )</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, get {url=http://localhost:8990/medicare/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:328)
+	at pageobjects.LogInPage.InValidPassLog(LogInPage.java:100)
+	at TSuites.Shopping.InValidPasswordLoginCheck(Shopping.java:22)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -325,6 +432,27 @@
                   </a> <!-- InValidUserLoginCheck(tu, 12345) -->
                   <span class="method-name">InValidUserLoginCheck</span>
                   <span class="parameters">(tu, 12345)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, get {url=http://localhost:8990/medicare/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:328)
+	at pageobjects.LogInPage.InValidUserLog(LogInPage.java:82)
+	at TSuites.Shopping.InValidUserLoginCheck(Shopping.java:14)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -333,6 +461,33 @@
                   </a> <!-- MedAddCart(Combiflame, Amoxicillin) -->
                   <span class="method-name">MedAddCart</span>
                   <span class="parameters">(Combiflame, Amoxicillin)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&quot;listProducts&quot;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.AddProducttoCart.AddMedicine(AddProducttoCart.java:30)
+	at TSuites.Shopping.MedAddCart(Shopping.java:45)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -341,6 +496,27 @@
                   </a> <!-- ValidUserLoginCheck(tu@gmail.com, 12345) -->
                   <span class="method-name">ValidUserLoginCheck</span>
                   <span class="parameters">(tu@gmail.com, 12345)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, get {url=http://localhost:8990/medicare/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:328)
+	at pageobjects.LogInPage.ValidUserLog(LogInPage.java:55)
+	at TSuites.Shopping.ValidUserLoginCheck(Shopping.java:30)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -348,6 +524,33 @@
                   <a name="ViewProductList">
                   </a> <!-- ViewProductList -->
                   <span class="method-name">ViewProductList</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&quot;listProducts&quot;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.ViewProductsPage.ProductList(ViewProductsPage.java:80)
+	at TSuites.Shopping.ViewProductList(Shopping.java:37)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -356,6 +559,33 @@
                   </a> <!-- checkCart(Combiflame, Amoxicillin) -->
                   <span class="method-name">checkCart</span>
                   <span class="parameters">(Combiflame, Amoxicillin)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//table[@id=&apos;cart&apos;]/tbody}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.findElements(Unknown Source)
+	at pageobjects.CartPage.checkCart(CartPage.java:31)
+	at TSuites.Shopping.checkCart(Shopping.java:53)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -363,31 +593,209 @@
                   <a name="orderConfirm">
                   </a> <!-- orderConfirm -->
                   <span class="method-name">orderConfirm</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="selectShipping">
-                  </a> <!-- selectShipping -->
-                  <span class="method-name">selectShipping</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="userLogOutClick">
-                  </a> <!-- userLogOutClick -->
-                  <span class="method-name">userLogOutClick</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="userLogOutConfirm">
-                  </a> <!-- userLogOutConfirm -->
-                  <span class="method-name">userLogOutConfirm</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//div[@class=&apos;alert alert-success&apos;]/h3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.getText(Unknown Source)
+	at pageobjects.OrderConfirmationPage.&lt;init&gt;(OrderConfirmationPage.java:23)
+	at TSuites.Shopping.orderConfirm(Shopping.java:66)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Medicare_Capstone-class-passed -->
+          </div> <!-- suite-Medicare_Capstone-class-failed -->
+          <div class="suite-Medicare_Capstone-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">TSuites.AdminActions</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)">
+                  </a> <!-- AddMedicine(Ibuprofen 400mg, Reddys, 10, 1) -->
+                  <span class="method-name">AddMedicine</span>
+                  <span class="parameters">(Ibuprofen 400mg, Reddys, 10, 1)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&apos;name&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.sendKeys(Unknown Source)
+	at pageobjects.ManageMedicines.AddProduct(ManageMedicines.java:49)
+	at TSuites.AdminActions.AddMedicine(AdminActions.java:33)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="EditMedQty(Paracetamol, 100)">
+                  </a> <!-- EditMedQty(Paracetamol, 100) -->
+                  <span class="method-name">EditMedQty</span>
+                  <span class="parameters">(Paracetamol, 100)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//table[@id=&apos;productsTable&apos;]/tbody}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.findElements(Unknown Source)
+	at pageobjects.ManageMedicines.EditQty(ManageMedicines.java:70)
+	at TSuites.AdminActions.EditMedQty(AdminActions.java:41)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="EditedMedQty(Paracetamol)">
+                  </a> <!-- EditedMedQty(Paracetamol) -->
+                  <span class="method-name">EditedMedQty</span>
+                  <span class="parameters">(Paracetamol)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, get {url=http://localhost:8990/medicare/manage/product}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:328)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:957)
+	at pageobjects.ManageMedicines.EditQtyConfirm(ManageMedicines.java:105)
+	at TSuites.AdminActions.EditedMedQty(AdminActions.java:49)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ManageProductsPageConfirm">
+                  </a> <!-- ManageProductsPageConfirm -->
+                  <span class="method-name">ManageProductsPageConfirm</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, findElement {using=xpath, value=//*[@id=&apos;manageProduct&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy19.click(Unknown Source)
+	at pageobjects.ManageProductsPage.ManagelProductClick(ManageProductsPage.java:33)
+	at TSuites.AdminActions.ManageProductsPageConfirm(AdminActions.java:25)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ValidAdminUserLoginCheck(vk@gmail.com, admin)">
+                  </a> <!-- ValidAdminUserLoginCheck(vk@gmail.com, admin) -->
+                  <span class="method-name">ValidAdminUserLoginCheck</span>
+                  <span class="parameters">(vk@gmail.com, admin)</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=96.0.4664.55)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;Krishnavenis-MacBook-Air.local&apos;, ip: &apos;2409:4072:8e38:ab19:9dae:2b8e:f481:7017%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_301&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45d2fef17a55cc0e810ed3b71ac104a, get {url=http://localhost:8990/medicare/login}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.55, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/ct/bp66y9x533z...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63959/devtoo..., se:cdpVersion: 96.0.4664.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b45d2fef17a55cc0e810ed3b71ac104a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:328)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:957)
+	at pageobjects.LogInPage.ValidAdminUserLog(LogInPage.java:73)
+	at TSuites.AdminActions.ValidAdminUserLoginCheck(AdminActions.java:17)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Medicare_Capstone-class-failed -->
           <div class="suite-Medicare_Capstone-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -399,20 +807,6 @@
                   <a name="validateAboutPage">
                   </a> <!-- validateAboutPage -->
                   <span class="method-name">validateAboutPage</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="validateAnalgesicsViewProducts">
-                  </a> <!-- validateAnalgesicsViewProducts -->
-                  <span class="method-name">validateAnalgesicsViewProducts</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="validateAntibioticsViewProducts">
-                  </a> <!-- validateAntibioticsViewProducts -->
-                  <span class="method-name">validateAntibioticsViewProducts</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -438,23 +832,46 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="validateLoginPage">
-                  </a> <!-- validateLoginPage -->
-                  <span class="method-name">validateLoginPage</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="validateSignupPage">
-                  </a> <!-- validateSignupPage -->
-                  <span class="method-name">validateSignupPage</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="validateViewProducts">
                   </a> <!-- validateViewProducts -->
                   <span class="method-name">validateViewProducts</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Medicare_Capstone-class-passed -->
+          <div class="suite-Medicare_Capstone-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TSuites.Shopping</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="selectShipping">
+                  </a> <!-- selectShipping -->
+                  <span class="method-name">selectShipping</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="userLogOutClick">
+                  </a> <!-- userLogOutClick -->
+                  <span class="method-name">userLogOutClick</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Medicare_Capstone-class-passed -->
+          <div class="suite-Medicare_Capstone-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TSuites.AdminActions</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="userLogOutClick">
+                  </a> <!-- userLogOutClick -->
+                  <span class="method-name">userLogOutClick</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -529,116 +946,108 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(26);
+data.addRows(24);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'MedAddCart')
-data.setCell(0, 2, 'TSuites.Shopping')
-data.setCell(0, 3, 11758);
+data.setCell(0, 1, 'validateAntipyreticsViewProducts')
+data.setCell(0, 2, 'TSuites.SiteMap_Common')
+data.setCell(0, 3, 9477);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'checkCart')
-data.setCell(1, 2, 'TSuites.Shopping')
-data.setCell(1, 3, 11361);
+data.setCell(1, 1, 'validateViewProducts')
+data.setCell(1, 2, 'TSuites.SiteMap_Common')
+data.setCell(1, 3, 6506);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'selectShipping')
+data.setCell(2, 1, 'checkCart')
 data.setCell(2, 2, 'TSuites.Shopping')
-data.setCell(2, 3, 9435);
+data.setCell(2, 3, 5028);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'validateAntipyreticsViewProducts')
+data.setCell(3, 1, 'validateAboutPage')
 data.setCell(3, 2, 'TSuites.SiteMap_Common')
-data.setCell(3, 3, 9278);
+data.setCell(3, 3, 4607);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'validateAntibioticsViewProducts')
-data.setCell(4, 2, 'TSuites.SiteMap_Common')
-data.setCell(4, 3, 9227);
+data.setCell(4, 1, 'userLogOutClick')
+data.setCell(4, 2, 'TSuites.AdminActions')
+data.setCell(4, 3, 4053);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'validateAnalgesicsViewProducts')
-data.setCell(5, 2, 'TSuites.SiteMap_Common')
-data.setCell(5, 3, 9212);
+data.setCell(5, 1, 'userLogOutClick')
+data.setCell(5, 2, 'TSuites.Shopping')
+data.setCell(5, 3, 4040);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'EditMedQty')
+data.setCell(6, 1, 'AddMedicine')
 data.setCell(6, 2, 'TSuites.AdminActions')
-data.setCell(6, 3, 7542);
+data.setCell(6, 3, 4040);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'orderConfirm')
-data.setCell(7, 2, 'TSuites.Shopping')
-data.setCell(7, 3, 7224);
+data.setCell(7, 1, 'EditMedQty')
+data.setCell(7, 2, 'TSuites.AdminActions')
+data.setCell(7, 3, 4035);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'validateViewProducts')
+data.setCell(8, 1, 'validateAnalgesicsViewProducts')
 data.setCell(8, 2, 'TSuites.SiteMap_Common')
-data.setCell(8, 3, 6390);
+data.setCell(8, 3, 3252);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'AddMedicine')
-data.setCell(9, 2, 'TSuites.AdminActions')
-data.setCell(9, 3, 5636);
+data.setCell(9, 1, 'validateHomePage')
+data.setCell(9, 2, 'TSuites.SiteMap_Common')
+data.setCell(9, 3, 3067);
 data.setCell(10, 0, 10)
-data.setCell(10, 1, 'ValidUserLoginCheck')
+data.setCell(10, 1, 'selectShipping')
 data.setCell(10, 2, 'TSuites.Shopping')
-data.setCell(10, 3, 5192);
+data.setCell(10, 3, 3044);
 data.setCell(11, 0, 11)
-data.setCell(11, 1, 'InValidUserLoginCheck')
-data.setCell(11, 2, 'TSuites.Shopping')
-data.setCell(11, 3, 4671);
+data.setCell(11, 1, 'validateAntibioticsViewProducts')
+data.setCell(11, 2, 'TSuites.SiteMap_Common')
+data.setCell(11, 3, 3031);
 data.setCell(12, 0, 12)
-data.setCell(12, 1, 'InValidPasswordLoginCheck')
-data.setCell(12, 2, 'TSuites.Shopping')
-data.setCell(12, 3, 4614);
+data.setCell(12, 1, 'validateContactPage')
+data.setCell(12, 2, 'TSuites.SiteMap_Common')
+data.setCell(12, 3, 2292);
 data.setCell(13, 0, 13)
-data.setCell(13, 1, 'validateAboutPage')
-data.setCell(13, 2, 'TSuites.SiteMap_Common')
-data.setCell(13, 3, 4528);
+data.setCell(13, 1, 'ValidAdminUserLoginCheck')
+data.setCell(13, 2, 'TSuites.AdminActions')
+data.setCell(13, 3, 2021);
 data.setCell(14, 0, 14)
-data.setCell(14, 1, 'ValidAdminUserLoginCheck')
+data.setCell(14, 1, 'EditedMedQty')
 data.setCell(14, 2, 'TSuites.AdminActions')
-data.setCell(14, 3, 4433);
+data.setCell(14, 3, 1629);
 data.setCell(15, 0, 15)
-data.setCell(15, 1, 'ViewProductList')
-data.setCell(15, 2, 'TSuites.Shopping')
-data.setCell(15, 3, 4367);
+data.setCell(15, 1, 'validateLoginPage')
+data.setCell(15, 2, 'TSuites.SiteMap_Common')
+data.setCell(15, 3, 1098);
 data.setCell(16, 0, 16)
-data.setCell(16, 1, 'ManageProductsPageConfirm')
-data.setCell(16, 2, 'TSuites.AdminActions')
-data.setCell(16, 3, 4365);
+data.setCell(16, 1, 'InValidPasswordLoginCheck')
+data.setCell(16, 2, 'TSuites.Shopping')
+data.setCell(16, 3, 1061);
 data.setCell(17, 0, 17)
-data.setCell(17, 1, 'EditedMedQty')
-data.setCell(17, 2, 'TSuites.AdminActions')
-data.setCell(17, 3, 4261);
+data.setCell(17, 1, 'MedAddCart')
+data.setCell(17, 2, 'TSuites.Shopping')
+data.setCell(17, 3, 1048);
 data.setCell(18, 0, 18)
-data.setCell(18, 1, 'userLogOutClick')
+data.setCell(18, 1, 'InValidUserLoginCheck')
 data.setCell(18, 2, 'TSuites.Shopping')
-data.setCell(18, 3, 4062);
+data.setCell(18, 3, 1044);
 data.setCell(19, 0, 19)
-data.setCell(19, 1, 'userLogOutConfirm')
-data.setCell(19, 2, 'TSuites.AdminActions')
-data.setCell(19, 3, 4046);
+data.setCell(19, 1, 'ViewProductList')
+data.setCell(19, 2, 'TSuites.Shopping')
+data.setCell(19, 3, 1038);
 data.setCell(20, 0, 20)
-data.setCell(20, 1, 'userLogOutConfirm')
+data.setCell(20, 1, 'ValidUserLoginCheck')
 data.setCell(20, 2, 'TSuites.Shopping')
-data.setCell(20, 3, 4044);
+data.setCell(20, 3, 1038);
 data.setCell(21, 0, 21)
-data.setCell(21, 1, 'userLogOutClick')
+data.setCell(21, 1, 'ManageProductsPageConfirm')
 data.setCell(21, 2, 'TSuites.AdminActions')
-data.setCell(21, 3, 4043);
+data.setCell(21, 3, 1024);
 data.setCell(22, 0, 22)
-data.setCell(22, 1, 'validateLoginPage')
+data.setCell(22, 1, 'validateSignupPage')
 data.setCell(22, 2, 'TSuites.SiteMap_Common')
-data.setCell(22, 3, 3408);
+data.setCell(22, 3, 23);
 data.setCell(23, 0, 23)
-data.setCell(23, 1, 'validateHomePage')
-data.setCell(23, 2, 'TSuites.SiteMap_Common')
-data.setCell(23, 3, 3065);
-data.setCell(24, 0, 24)
-data.setCell(24, 1, 'validateSignupPage')
-data.setCell(24, 2, 'TSuites.SiteMap_Common')
-data.setCell(24, 3, 2271);
-data.setCell(25, 0, 25)
-data.setCell(25, 1, 'validateContactPage')
-data.setCell(25, 2, 'TSuites.SiteMap_Common')
-data.setCell(25, 3, 2154);
+data.setCell(23, 1, 'orderConfirm')
+data.setCell(23, 2, 'TSuites.Shopping')
+data.setCell(23, 3, 13);
 window.suiteTableData['Medicare_Capstone']= { tableData: data, tableDiv: 'times-div-Medicare_Capstone'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Medicare_Capstone">
               </div> <!-- times-div-Medicare_Capstone -->
             </div> <!-- times-div -->
@@ -657,7 +1066,7 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="ignored-class-div">
-              <span class="ignored-class-name">TSuites.AdminActions</span>
+              <span class="ignored-class-name">TSuites.Shopping</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">TearDown</span>
                 <br/>
@@ -666,7 +1075,7 @@ return data;
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
             <div class="ignored-class-div">
-              <span class="ignored-class-name">TSuites.Shopping</span>
+              <span class="ignored-class-name">TSuites.AdminActions</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">TearDown</span>
                 <br/>
@@ -689,120 +1098,144 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">validateAboutPage</span>
-                <span class="method-start">7101 ms</span>
+                <span class="method-start">10306 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">validateHomePage</span>
-                <span class="method-start">11670 ms</span>
+                <span class="method-start">14941 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">validateContactPage</span>
-                <span class="method-start">14739 ms</span>
+                <span class="method-start">18027 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">validateViewProducts</span>
-                <span class="method-start">16920 ms</span>
+                <span class="method-start">20349 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">validateAntipyreticsViewProducts</span>
-                <span class="method-start">23327 ms</span>
+                <span class="method-start">26868 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">validateAnalgesicsViewProducts</span>
-                <span class="method-start">32636 ms</span>
+                <span class="method-start">36359 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">validateAntibioticsViewProducts</span>
-                <span class="method-start">41854 ms</span>
+                <span class="method-start">39620 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">validateSignupPage</span>
-                <span class="method-start">51110 ms</span>
+                <span class="method-start">42656 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">validateLoginPage</span>
-                <span class="method-start">53389 ms</span>
+                <span class="method-start">42683 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TSuites.Shopping</div> <!-- chronological-class-name -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">InValidUserLoginCheck(tu, 12345)</span>
-                <span class="method-start">56854 ms</span>
+                <span class="method-start">43790 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">InValidPasswordLoginCheck(tu@gmail.com, )</span>
-                <span class="method-start">61541 ms</span>
+                <span class="method-start">44850 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">ValidUserLoginCheck(tu@gmail.com, 12345)</span>
-                <span class="method-start">66156 ms</span>
+                <span class="method-start">45923 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">ViewProductList</span>
-                <span class="method-start">71359 ms</span>
+                <span class="method-start">46968 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">MedAddCart(Combiflame, Amoxicillin)</span>
-                <span class="method-start">75732 ms</span>
+                <span class="method-start">48012 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">checkCart(Combiflame, Amoxicillin)</span>
-                <span class="method-start">87508 ms</span>
+                <span class="method-start">49066 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">selectShipping</span>
-                <span class="method-start">98877 ms</span>
+                <span class="method-start">54104 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">orderConfirm</span>
-                <span class="method-start">108316 ms</span>
+                <span class="method-start">57150 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">userLogOutClick</span>
-                <span class="method-start">115546 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">userLogOutConfirm</span>
-                <span class="method-start">119609 ms</span>
+                <span class="method-start">57165 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TSuites.AdminActions</div> <!-- chronological-class-name -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">ValidAdminUserLoginCheck(vk@gmail.com, admin)</span>
-                <span class="method-start">123660 ms</span>
+                <span class="method-start">61212 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">ManageProductsPageConfirm</span>
-                <span class="method-start">128098 ms</span>
+                <span class="method-start">63238 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">AddMedicine(Ibuprofen 400mg, Reddys, 10, 1)</span>
-                <span class="method-start">132464 ms</span>
+                <span class="method-start">64264 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">EditMedQty(Paracetamol, 100)</span>
-                <span class="method-start">138118 ms</span>
+                <span class="method-start">68313 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">EditedMedQty(Paracetamol, 100)</span>
-                <span class="method-start">145675 ms</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">EditedMedQty(Paracetamol)</span>
+                <span class="method-start">72352 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">userLogOutClick</span>
-                <span class="method-start">149938 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">userLogOutConfirm</span>
-                <span class="method-start">153982 ms</span>
+                <span class="method-start">73989 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TSuites.SiteMap_Common</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">TearDown</span>
-                <span class="method-start">158032 ms</span>
+                <span class="method-start">78045 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

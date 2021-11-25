@@ -1,5 +1,13 @@
 package pageobjects;
 
+import java.io.FileReader;
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.Properties;
+
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -50,6 +58,17 @@ public class HomePage {
 		PageFactory.initElements(driver, this);
 	}
 
+	public void DBConnection() throws ClassNotFoundException, SQLException, IOException 
+	{
+		//Class.forName("com.sql.jdbcDriver");
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		FileReader reader=new FileReader("config/db.properties");  
+		Properties p=new Properties();  
+	    p.load(reader);  
+	    Connection con=DriverManager.getConnection(p.getProperty("dbURL"), p.getProperty("user"), p.getProperty("pwd"));  
+	    Statement stmt=con.createStatement();  
+	}
+	
 	public void isHomePage() {
 		PropertyConfigurator.configure("config/log4j.properties");
 		try {
@@ -60,6 +79,7 @@ public class HomePage {
 			log.error(e);
 		}
 	}
+	
 	
 
 }

@@ -14,8 +14,8 @@ public class Base {
 
 	public static WebDriver driver;
 	final Logger log = LogManager.getLogger(Base.class.getSimpleName());
-	String URL = "http://localhost:8080/medicare/";
-
+	String URL = "http://localhost:8990/medicare/";
+	
 	@BeforeTest
 	public void setup() throws IOException, InterruptedException {
 		PropertyConfigurator.configure("config/log4j.properties");
@@ -32,5 +32,6 @@ public class Base {
 	public void TearDown() {
 		log.info("In Tear Down... All tests executions completed");
 		driver.quit();
+		
 	}
 }
